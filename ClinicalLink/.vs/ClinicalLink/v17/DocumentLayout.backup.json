@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\leofl\\source\\repos\\ClinicalLink\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D4F59D-0A21-4EF0-9DC7-231D814AD274}|Infrastructure\\Infrastructure.csproj|c:\\users\\leofl\\source\\repos\\clinicallink\\infrastructure\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2D4F59D-0A21-4EF0-9DC7-231D814AD274}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDBADD13-0092-452F-8C30-85C7EFDAFCD9}|Domain\\Domain.csproj|c:\\users\\leofl\\source\\repos\\clinicallink\\domain\\universidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDBADD13-0092-452F-8C30-85C7EFDAFCD9}|Domain\\Domain.csproj|solutionrelative:domain\\universidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDBADD13-0092-452F-8C30-85C7EFDAFCD9}|Domain\\Domain.csproj|c:\\users\\leofl\\source\\repos\\clinicallink\\domain\\consulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDBADD13-0092-452F-8C30-85C7EFDAFCD9}|Domain\\Domain.csproj|solutionrelative:domain\\consulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDBADD13-0092-452F-8C30-85C7EFDAFCD9}|Domain\\Domain.csproj|c:\\users\\leofl\\source\\repos\\clinicallink\\domain\\especialista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDBADD13-0092-452F-8C30-85C7EFDAFCD9}|Domain\\Domain.csproj|solutionrelative:domain\\especialista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDBADD13-0092-452F-8C30-85C7EFDAFCD9}|Domain\\Domain.csproj|c:\\users\\leofl\\source\\repos\\clinicallink\\domain\\estado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDBADD13-0092-452F-8C30-85C7EFDAFCD9}|Domain\\Domain.csproj|solutionrelative:domain\\estado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDBADD13-0092-452F-8C30-85C7EFDAFCD9}|Domain\\Domain.csproj|c:\\users\\leofl\\source\\repos\\clinicallink\\domain\\avaliacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDBADD13-0092-452F-8C30-85C7EFDAFCD9}|Domain\\Domain.csproj|solutionrelative:domain\\avaliacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75A96A4B-E261-404D-BDA1-D258D449051E}|DomainService\\DomainService.csproj|c:\\users\\leofl\\source\\repos\\clinicallink\\domainservice\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75A96A4B-E261-404D-BDA1-D258D449051E}|DomainService\\DomainService.csproj|solutionrelative:domainservice\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BFEFF58-C93F-48B2-BD62-86AEE824A52F}|ApplicationService\\ApplicationService.csproj|c:\\users\\leofl\\source\\repos\\clinicallink\\applicationservice\\applicationservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8BFEFF58-C93F-48B2-BD62-86AEE824A52F}|ApplicationService\\ApplicationService.csproj|solutionrelative:applicationservice\\applicationservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BFEFF58-C93F-48B2-BD62-86AEE824A52F}|ApplicationService\\ApplicationService.csproj|c:\\users\\leofl\\source\\repos\\clinicallink\\applicationservice\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BFEFF58-C93F-48B2-BD62-86AEE824A52F}|ApplicationService\\ApplicationService.csproj|solutionrelative:applicationservice\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\leofl\\source\\repos\\ClinicalLink\\Infrastructure\\Program.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Program.cs",
+              "ToolTip": "C:\\Users\\leofl\\source\\repos\\ClinicalLink\\Infrastructure\\Program.cs",
+              "RelativeToolTip": "Infrastructure\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T23:13:33.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Consulta.cs",
+              "DocumentMoniker": "C:\\Users\\leofl\\source\\repos\\ClinicalLink\\Domain\\Consulta.cs",
+              "RelativeDocumentMoniker": "Domain\\Consulta.cs",
+              "ToolTip": "C:\\Users\\leofl\\source\\repos\\ClinicalLink\\Domain\\Consulta.cs",
+              "RelativeToolTip": "Domain\\Consulta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T23:11:26.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Especialista.cs",
+              "DocumentMoniker": "C:\\Users\\leofl\\source\\repos\\ClinicalLink\\Domain\\Especialista.cs",
+              "RelativeDocumentMoniker": "Domain\\Especialista.cs",
+              "ToolTip": "C:\\Users\\leofl\\source\\repos\\ClinicalLink\\Domain\\Especialista.cs",
+              "RelativeToolTip": "Domain\\Especialista.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T23:11:12.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Estado.cs",
+              "DocumentMoniker": "C:\\Users\\leofl\\source\\repos\\ClinicalLink\\Domain\\Estado.cs",
+              "RelativeDocumentMoniker": "Domain\\Estado.cs",
+              "ToolTip": "C:\\Users\\leofl\\source\\repos\\ClinicalLink\\Domain\\Estado.cs",
+              "RelativeToolTip": "Domain\\Estado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T23:10:44.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Universidade.cs",
+              "DocumentMoniker": "C:\\Users\\leofl\\source\\repos\\ClinicalLink\\Domain\\Universidade.cs",
+              "RelativeDocumentMoniker": "Domain\\Universidade.cs",
+              "ToolTip": "C:\\Users\\leofl\\source\\repos\\ClinicalLink\\Domain\\Universidade.cs",
+              "RelativeToolTip": "Domain\\Universidade.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T23:10:30.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\leofl\\source\\repos\\ClinicalLink\\DomainService\\Class1.cs",
+              "RelativeDocumentMoniker": "DomainService\\Class1.cs",
+              "ToolTip": "C:\\Users\\leofl\\source\\repos\\ClinicalLink\\DomainService\\Class1.cs",
+              "RelativeToolTip": "DomainService\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T23:08:33.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Avaliacao.cs",
+              "DocumentMoniker": "C:\\Users\\leofl\\source\\repos\\ClinicalLink\\Domain\\Avaliacao.cs",
+              "RelativeDocumentMoniker": "Domain\\Avaliacao.cs",
+              "ToolTip": "C:\\Users\\leofl\\source\\repos\\ClinicalLink\\Domain\\Avaliacao.cs",
+              "RelativeToolTip": "Domain\\Avaliacao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T23:08:12.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApplicationService",
+              "DocumentMoniker": "C:\\Users\\leofl\\source\\repos\\ClinicalLink\\ApplicationService\\ApplicationService.csproj",
+              "RelativeDocumentMoniker": "ApplicationService\\ApplicationService.csproj",
+              "ToolTip": "C:\\Users\\leofl\\source\\repos\\ClinicalLink\\ApplicationService\\ApplicationService.csproj",
+              "RelativeToolTip": "ApplicationService\\ApplicationService.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-29T23:06:54.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\leofl\\source\\repos\\ClinicalLink\\ApplicationService\\Class1.cs",
+              "RelativeDocumentMoniker": "ApplicationService\\Class1.cs",
+              "ToolTip": "C:\\Users\\leofl\\source\\repos\\ClinicalLink\\ApplicationService\\Class1.cs",
+              "RelativeToolTip": "ApplicationService\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T23:06:28.835Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
