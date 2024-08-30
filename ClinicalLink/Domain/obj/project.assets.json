@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\leofl\\source\\repos\\ClinicalLink\\Domain\\Domain.csproj",
+      "projectUniqueName": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\Domain\\Domain.csproj",
       "projectName": "Domain",
-      "projectPath": "C:\\Users\\leofl\\source\\repos\\ClinicalLink\\Domain\\Domain.csproj",
+      "projectPath": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\Domain\\Domain.csproj",
       "packagesPath": "C:\\Users\\leofl\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\leofl\\source\\repos\\ClinicalLink\\Domain\\obj\\",
+      "outputPath": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\leofl\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -67,7 +67,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace  ClinicalLink.Infrastructure
+namespace ClinicalLink.Infrastructure.Interface
 {
     public interface IAvaliacaoRepository
     {
@@ -17,3 +17,4 @@ namespace  ClinicalLink.Infrastructure
 
     }
 }
+

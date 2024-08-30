@@ -6,7 +6,7 @@ using System.Text;
 using System.Threading.Tasks;
 using DomainService.Interfaces;
 using Domain.Entidades;
-using ClinicalLink.Infrastructure;
+using ClinicalLink.Infrastructure.Interface;
 
 namespace DomainService.Services
 {

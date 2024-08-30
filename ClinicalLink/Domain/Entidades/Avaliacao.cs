@@ -9,7 +9,7 @@ namespace Domain.Entidades
         public int Id { get; set; }
         public string Descricao { get; set; }
         public Especialista EspecialistaAvaliado { get; set; }
-        public string QuantidadeObjetos { get; set; }
+        public int Estrelas {  get; set; }
 
     }
 }

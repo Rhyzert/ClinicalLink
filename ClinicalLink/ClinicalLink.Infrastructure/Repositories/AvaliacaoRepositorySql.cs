@@ -1,4 +1,5 @@
-﻿using Domain.Entidades;
+﻿using ClinicalLink.Infrastructure.Interface;
+using Domain.Entidades;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
@@ -8,13 +9,13 @@ using System.Threading.Tasks;
 
 
 
-namespace ClinicalLink.Infrastructure
+namespace ClinicalLink.Infrastructure.Repositories
 {
     public class AvaliacaoRepositorySql : IAvaliacaoRepository
     {
-        private readonly ClinicalLinkDbContext _context;
+        private readonly SqlContext _context;
 
-        public AvaliacaoRepositorySql(ClinicalLinkDbContext context)
+        public AvaliacaoRepositorySql(SqlContext context)
         {
             _context = context;
         }
@@ -94,6 +95,3 @@ namespace ClinicalLink.Infrastructure
     }
 
 }
-
-
-

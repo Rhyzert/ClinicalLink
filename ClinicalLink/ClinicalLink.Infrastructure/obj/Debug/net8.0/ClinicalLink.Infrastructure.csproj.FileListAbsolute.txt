@@ -1,0 +1,16 @@
+D:\Projeto\ClinicalLink\ClinicalLink\ClinicalLink.Infrastructure\bin\Debug\net8.0\ClinicalLink.Infrastructure.deps.json
+D:\Projeto\ClinicalLink\ClinicalLink\ClinicalLink.Infrastructure\bin\Debug\net8.0\ClinicalLink.Infrastructure.dll
+D:\Projeto\ClinicalLink\ClinicalLink\ClinicalLink.Infrastructure\bin\Debug\net8.0\ClinicalLink.Infrastructure.pdb
+D:\Projeto\ClinicalLink\ClinicalLink\ClinicalLink.Infrastructure\bin\Debug\net8.0\Domain.dll
+D:\Projeto\ClinicalLink\ClinicalLink\ClinicalLink.Infrastructure\bin\Debug\net8.0\Domain.pdb
+D:\Projeto\ClinicalLink\ClinicalLink\ClinicalLink.Infrastructure\obj\Debug\net8.0\ClinicalLink.Infrastructure.csproj.AssemblyReference.cache
+D:\Projeto\ClinicalLink\ClinicalLink\ClinicalLink.Infrastructure\obj\Debug\net8.0\ClinicalLink.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projeto\ClinicalLink\ClinicalLink\ClinicalLink.Infrastructure\obj\Debug\net8.0\ClinicalLink.Infrastructure.AssemblyInfoInputs.cache
+D:\Projeto\ClinicalLink\ClinicalLink\ClinicalLink.Infrastructure\obj\Debug\net8.0\ClinicalLink.Infrastructure.AssemblyInfo.cs
+D:\Projeto\ClinicalLink\ClinicalLink\ClinicalLink.Infrastructure\obj\Debug\net8.0\ClinicalLink.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Projeto\ClinicalLink\ClinicalLink\ClinicalLink.Infrastructure\obj\Debug\net8.0\ClinicalLink.Infrastructure.sourcelink.json
+D:\Projeto\ClinicalLink\ClinicalLink\ClinicalLink.Infrastructure\obj\Debug\net8.0\Clinical.64E348F0.Up2Date
+D:\Projeto\ClinicalLink\ClinicalLink\ClinicalLink.Infrastructure\obj\Debug\net8.0\ClinicalLink.Infrastructure.dll
+D:\Projeto\ClinicalLink\ClinicalLink\ClinicalLink.Infrastructure\obj\Debug\net8.0\refint\ClinicalLink.Infrastructure.dll
+D:\Projeto\ClinicalLink\ClinicalLink\ClinicalLink.Infrastructure\obj\Debug\net8.0\ClinicalLink.Infrastructure.pdb
+D:\Projeto\ClinicalLink\ClinicalLink\ClinicalLink.Infrastructure\obj\Debug\net8.0\ref\ClinicalLink.Infrastructure.dll
