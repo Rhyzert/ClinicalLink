@@ -11,6 +11,7 @@ namespace Application.Controllers
         [HttpPost]
         public IActionResult Auth(string username, string password)
         {
+            //var user = 
            
             if (username == "leo" && password == "123456")
             {
