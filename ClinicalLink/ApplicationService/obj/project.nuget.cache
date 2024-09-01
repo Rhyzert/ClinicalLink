@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GZKx3d+XU2Y=",
+  "dgSpecHash": "iOyAc710dr0=",
   "success": true,
-  "projectFilePath": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ApplicationService\\ApplicationService.csproj",
+  "projectFilePath": "C:\\Projeto\\ClinicalLink\\ClinicalLink\\ApplicationService\\ApplicationService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\leofl\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\leofl\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

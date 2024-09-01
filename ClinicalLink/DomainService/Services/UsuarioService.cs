@@ -11,43 +11,43 @@ using ClinicalLink.Infrastructure.Interface;
 namespace DomainService.Services
 {
 
-    public class ConsultaService : IConsultaService
+    public class UsuarioService : IUsuarioService
     {
-        public readonly IConsultaRepository _consultaRepository;
+        public readonly IUsuarioRepository _usuarioRepository;
 
-        public ConsultaService(IConsultaRepository consultaRepository)
+        public UsuarioService(IUsuarioRepository usuarioRepository)
         {
-            _consultaRepository = consultaRepository;
+            _usuarioRepository = usuarioRepository;
         }
-        public Consulta GetConsulta(int id)
+        public Usuario GetUsuario(int id)
         {
-            return _consultaRepository.GetConsulta(id);
-        }
-
-        public List<Consulta> GetConsultas()
-        {
-            return _consultaRepository.GetConsultas();
+            return _usuarioRepository.GetUsuario(id);
         }
 
-
-        public void InsertConsulta(Consulta consulta)
+        public List<Usuario> GetUsuarios()
         {
-            _consultaRepository.InsertConsulta(consulta);
+            return _usuarioRepository.GetUsuarios();
         }
 
-        public void UpdateConsulta(Consulta consulta)
+
+        public void InsertUsuario(Usuario usuario)
         {
-            _consultaRepository.UpdateConsulta(consulta);
+            _usuarioRepository.InsertUsuario(usuario);
         }
 
-        public void DeleteConsulta(int id)
+        public void UpdateUsuario(Usuario usuario)
+        {
+            _usuarioRepository.UpdateUsuario(usuario);
+        }
+
+        public void DeleteUsuario(int id)
         {
 
-            var Consulta = _consultaRepository.GetConsulta(id);
-            if (Consulta == null)
-                throw new Exception("Essa consulta Não Existe.");
+            var Usuario = _usuarioRepository.GetUsuario(id);
+            if (Usuario == null)
+                throw new Exception("Essa denuncia Não Existe.");
 
-            _consultaRepository.DeleteConsulta(Consulta);
+            _usuarioRepository.DeleteUsuario(Usuario);
         }
 
 

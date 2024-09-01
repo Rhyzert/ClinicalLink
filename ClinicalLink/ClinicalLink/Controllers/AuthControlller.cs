@@ -1,4 +1,5 @@
-﻿using Domain.Entidades;
+﻿using ApplicationService.Interface;
+using Domain.Entidades;
 using DomainService.Services;
 using Microsoft.AspNetCore.Mvc;
 
@@ -8,10 +9,10 @@ namespace Application.Controllers
     [Route("api/[controller]")]
     public class AuthControlller : Controller
     {
-        [HttpPost]
-        public IActionResult Auth(string username, string password)
+       /* [HttpPost]
+        public async Task<ActionResult<>>   Registrar(string username, string password)
         {
-            //var user = 
+  
            
             if (username == "leo" && password == "123456")
             {
@@ -19,6 +20,6 @@ namespace Application.Controllers
                 return Ok(token);
             }
             return BadRequest();
-        }
+        }*/
     }
 }

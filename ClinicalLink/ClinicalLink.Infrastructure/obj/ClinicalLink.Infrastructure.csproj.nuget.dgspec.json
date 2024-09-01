@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ClinicalLink.Infrastructure\\ClinicalLink.Infrastructure.csproj": {}
+    "C:\\Projeto\\ClinicalLink\\ClinicalLink\\ClinicalLink.Infrastructure\\ClinicalLink.Infrastructure.csproj": {}
   },
   "projects": {
-    "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ClinicalLink.Infrastructure\\ClinicalLink.Infrastructure.csproj": {
+    "C:\\Projeto\\ClinicalLink\\ClinicalLink\\ClinicalLink.Infrastructure\\ClinicalLink.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ClinicalLink.Infrastructure\\ClinicalLink.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Projeto\\ClinicalLink\\ClinicalLink\\ClinicalLink.Infrastructure\\ClinicalLink.Infrastructure.csproj",
         "projectName": "ClinicalLink.Infrastructure",
-        "projectPath": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ClinicalLink.Infrastructure\\ClinicalLink.Infrastructure.csproj",
+        "projectPath": "C:\\Projeto\\ClinicalLink\\ClinicalLink\\ClinicalLink.Infrastructure\\ClinicalLink.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\leofl\\.nuget\\packages\\",
-        "outputPath": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ClinicalLink.Infrastructure\\obj\\",
+        "outputPath": "C:\\Projeto\\ClinicalLink\\ClinicalLink\\ClinicalLink.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\leofl\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -29,8 +29,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Projeto\\ClinicalLink\\ClinicalLink\\Domain\\Domain.csproj": {
-                "projectPath": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\Domain\\Domain.csproj"
+              "C:\\Projeto\\ClinicalLink\\ClinicalLink\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Projeto\\ClinicalLink\\ClinicalLink\\Domain\\Domain.csproj"
               }
             }
           }
@@ -83,18 +83,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Projeto\\ClinicalLink\\ClinicalLink\\Domain\\Domain.csproj": {
+    "C:\\Projeto\\ClinicalLink\\ClinicalLink\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Projeto\\ClinicalLink\\ClinicalLink\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\Domain\\Domain.csproj",
+        "projectPath": "C:\\Projeto\\ClinicalLink\\ClinicalLink\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\leofl\\.nuget\\packages\\",
-        "outputPath": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\Domain\\obj\\",
+        "outputPath": "C:\\Projeto\\ClinicalLink\\ClinicalLink\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\leofl\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -144,7 +144,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

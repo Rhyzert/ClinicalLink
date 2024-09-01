@@ -2882,11 +2882,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ApplicationService\\ApplicationService.csproj",
+      "projectUniqueName": "C:\\Projeto\\ClinicalLink\\ClinicalLink\\ApplicationService\\ApplicationService.csproj",
       "projectName": "ApplicationService",
-      "projectPath": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ApplicationService\\ApplicationService.csproj",
+      "projectPath": "C:\\Projeto\\ClinicalLink\\ClinicalLink\\ApplicationService\\ApplicationService.csproj",
       "packagesPath": "C:\\Users\\leofl\\.nuget\\packages\\",
-      "outputPath": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ApplicationService\\obj\\",
+      "outputPath": "C:\\Projeto\\ClinicalLink\\ClinicalLink\\ApplicationService\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\leofl\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2904,8 +2904,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\Projeto\\ClinicalLink\\ClinicalLink\\DomainService\\DomainService.csproj": {
-              "projectPath": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\DomainService\\DomainService.csproj"
+            "C:\\Projeto\\ClinicalLink\\ClinicalLink\\DomainService\\DomainService.csproj": {
+              "projectPath": "C:\\Projeto\\ClinicalLink\\ClinicalLink\\DomainService\\DomainService.csproj"
             }
           }
         }
@@ -2940,7 +2940,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

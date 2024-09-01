@@ -9,7 +9,6 @@ using ApplicationService.Interface;
 namespace Application.Controllers
 {
     [Route("api/[controller]")]
-    [Authorize]
     [ApiController]
     public class UsuarioController : ControllerBase
     {
@@ -20,7 +19,7 @@ namespace Application.Controllers
             _usuariosRepository = usuariosRepository;
         }
 
-        [Authorize]
+       // [Authorize]
         [HttpGet]
         public IActionResult GetUsuarios()
         {
@@ -35,7 +34,7 @@ namespace Application.Controllers
             }
         }
 
-        [Authorize]
+       // [Authorize]
         [HttpGet("{id}")]
         public IActionResult GetUsuario(int id)
         {

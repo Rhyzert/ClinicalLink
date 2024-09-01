@@ -2,42 +2,27 @@
 using Microsoft.Extensions.Configuration;
 using Domain;
 using Domain.Entidades;
+using Microsoft.Identity.Client;
+using Microsoft.Extensions.DependencyInjection;
 
 
 namespace ClinicalLink.Infrastructure
 {
     public class SqlContext : DbContext
     {
-        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+        public SqlContext(DbContextOptions<SqlContext> options) : base(options) 
         {
-            optionsBuilder.UseSqlServer("Data Source=(localdb)\\MSSQLLocalDB;Initial Catalog=ReciclaNew");
+            
         }
-        /*        private IConfiguration _configuration;
 
-                public SqlContext(IConfiguration configuration, DbContextOptions options) : base(options)
-                {
-                    _configuration = configuration ?? throw new ArgumentNullException(nameof(configuration));
-                }
+      /*  private IConfiguration _configuration;
 
-                protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
-                {
-                    var typeDatabase = _configuration["TypeDatabase"];
-                    var connectionString = _configuration.GetConnectionString(typeDatabase);
-
-                    if (typeDatabase == "Postgresql")
-                    {
-                        optionsBuilder.UseNpgsql(connectionString);
-                    }
-
-                    switch (typeDatabase)
-                    {
-                        case "PostgreSql":
-                            optionsBuilder.UseNpgsql(connectionString);
-                            break;
-
-
-                    }*/
-        //}
+        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+          => optionsBuilder.UseNpgsql(
+              "Server=localhost;" +
+              "Port=5432;Database=ClinicalLink;" +
+              "User Id=postgres;" +
+              "Password=kadugay;");*/
 
         public DbSet<Avaliacao> Avaliacoes { get; set; }
         public DbSet<Consulta> Consultas { get; set; }
@@ -46,6 +31,13 @@ namespace ClinicalLink.Infrastructure
         public DbSet<Estado> Estados { get; set; }
         public DbSet<Universidade> Universidades { get; set; }
         public DbSet<Usuario> Usuarios { get; set; }
+
+
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            base.OnModelCreating(modelBuilder);
+            modelBuilder.ApplyConfigurationsFromAssembly(GetType().Assembly);
+        }
 
 
     }

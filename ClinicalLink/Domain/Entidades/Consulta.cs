@@ -12,10 +12,14 @@ namespace Domain.Entidades
     {
         [Key]
         public int Id { get; set; }
+        [Column("descricao")]
+        [StringLength(100)]
         public string Descricao { get; set; }
+        [Column("especialista")]
         public Especialista Especialista { get; set; }
         public DateTime Data { get; set; }
         public Usuario UsuarioConsulta { get; set; }
+        public string StatusConsulta { get; set; }
 
     }
 }

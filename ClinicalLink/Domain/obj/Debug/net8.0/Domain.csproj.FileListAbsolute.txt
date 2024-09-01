@@ -21,3 +21,15 @@ D:\Projeto\ClinicalLink\ClinicalLink\Domain\obj\Debug\net8.0\Domain.dll
 D:\Projeto\ClinicalLink\ClinicalLink\Domain\obj\Debug\net8.0\refint\Domain.dll
 D:\Projeto\ClinicalLink\ClinicalLink\Domain\obj\Debug\net8.0\Domain.pdb
 D:\Projeto\ClinicalLink\ClinicalLink\Domain\obj\Debug\net8.0\ref\Domain.dll
+C:\Projeto\ClinicalLink\ClinicalLink\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Projeto\ClinicalLink\ClinicalLink\Domain\bin\Debug\net8.0\Domain.dll
+C:\Projeto\ClinicalLink\ClinicalLink\Domain\bin\Debug\net8.0\Domain.pdb
+C:\Projeto\ClinicalLink\ClinicalLink\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projeto\ClinicalLink\ClinicalLink\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Projeto\ClinicalLink\ClinicalLink\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Projeto\ClinicalLink\ClinicalLink\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Projeto\ClinicalLink\ClinicalLink\Domain\obj\Debug\net8.0\Domain.sourcelink.json
+C:\Projeto\ClinicalLink\ClinicalLink\Domain\obj\Debug\net8.0\Domain.dll
+C:\Projeto\ClinicalLink\ClinicalLink\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\Projeto\ClinicalLink\ClinicalLink\Domain\obj\Debug\net8.0\Domain.pdb
+C:\Projeto\ClinicalLink\ClinicalLink\Domain\obj\Debug\net8.0\ref\Domain.dll

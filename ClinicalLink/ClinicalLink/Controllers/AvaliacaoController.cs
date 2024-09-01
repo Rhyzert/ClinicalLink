@@ -9,7 +9,6 @@ using ApplicationService.Interface;
 namespace Application.Controllers
 {
     [Route("api/[controller]")]
-    [Authorize]
     [ApiController]
     public class AvaliacaoController : ControllerBase
     {

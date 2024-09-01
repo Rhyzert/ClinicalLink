@@ -10,116 +10,27 @@ using ClinicalLink.Infrastructure.Repositories;
 using Microsoft.OpenApi.Models;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.IdentityModel.Tokens;
+using Microsoft.EntityFrameworkCore;
+using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc.ApiExplorer;
+using Microsoft.AspNetCore.Hosting;
+using Application;
 
 
-
-var builder = WebApplication.CreateSlimBuilder(args);
-
-//Autorização para requisição com o CORS
-builder.Services.AddCors(options =>
+namespace Consultorio
 {
-    options.AddPolicy("AllowSpecificOrigin", builder =>
-        builder.WithOrigins("*")
-               .AllowAnyMethod()
-               .AllowAnyHeader());
-});
-
-var key = Encoding.ASCII.GetBytes(Application.Key.Secret);
-builder.Services.AddAuthentication(x =>
-{
-    x.DefaultAuthenticateScheme = JwtBearerDefaults.AuthenticationScheme;
-    x.DefaultChallengeScheme = JwtBearerDefaults.AuthenticationScheme;
-})
-.AddJwtBearer(x =>
-{
-    x.RequireHttpsMetadata = false;
-    x.SaveToken = true;
-    x.TokenValidationParameters = new TokenValidationParameters
+    public class Program
     {
-        ValidateIssuerSigningKey = true,
-        IssuerSigningKey = new SymmetricSecurityKey(key),
-        ValidateIssuer = false,
-        ValidateAudience = false
-    };
-});
-
-
-//builder.Services.AddScoped<IAlunoRepository, AlunoRepository>();
-builder.Services.AddScoped<IAvaliacaoRepository, AvaliacaoRepositorySql>();
-
-
-//Dependency Injection Application
-builder.Services.AddScoped<IAvaliacaoApplication, AvaliacaoApplication>();
-
-//Dependency Injection Service
-builder.Services.AddScoped<IAvaliacaoService, AvaliacaoService>();
-//builder.Services.AddControllers().AddJsonOptions(x =>
-//   x.JsonSerializerOptions.ReferenceHandler = ReferenceHandler.Preserve);
-
-builder.Services.AddScoped<SqlContext, SqlContext>();
-
-builder.Services.AddControllers();
-// Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
-builder.Services.AddEndpointsApiExplorer();
-builder.Services.AddSwaggerGen(c =>
-{
-
-    c.SwaggerDoc("v1", new OpenApiInfo
-    {
-        Title = "AdmMaster API",
-        Version = $"v1",
-        Description = "API para consumo de dados do Front em Vue"
-    });
-
-    c.AddSecurityDefinition("Bearer", new OpenApiSecurityScheme
-    {
-        Description = @"Autenticação por token JWT. Entre com o valor no formato: Bearer SEU_TOKEN",
-        Name = "Authorization",
-        In = ParameterLocation.Header,
-        Type = SecuritySchemeType.ApiKey,
-        Scheme = "Bearer"
-    });
-
-    c.AddSecurityRequirement(new OpenApiSecurityRequirement()
-    {
+        public static void Main(string[] args)
         {
-            new OpenApiSecurityScheme
-            {
-                Reference = new OpenApiReference
-                {
-                    Type = ReferenceType.SecurityScheme,
-                    Id = "Bearer"
-                },
-                Scheme = "oauth2",
-                Name = "Bearer",
-                In = ParameterLocation.Header,
-            },
-            new List<string>()
+            CreateHostBuilder(args).Build().Run();
         }
-    });
 
+        public static IHostBuilder CreateHostBuilder(string[] args) =>
+            Host.CreateDefaultBuilder(args)
+                .ConfigureWebHostDefaults(webBuilder =>
+                {
+                    webBuilder.UseStartup<Startup>();
+                });
+    }
 }
-);
-
-// Configure the HTTP request pipeline.
-var app = builder.Build();
-app.UseSwagger();
-app.UseSwaggerUI();
-
-
-app.UseHttpsRedirection();
-
-////Autorização para requisição CORs
-//app.UseCors("corsapp");
-//app.UseAuthorization();
-
-//app.UseAuthentication();
-//app.UseAuthorization();
-app.UseCors("AllowSpecificOrigin");
-
-app.UseAuthentication();
-app.UseAuthorization();
-
-app.MapControllers();
-
-app.Run();
