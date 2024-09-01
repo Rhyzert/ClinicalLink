@@ -8,13 +8,18 @@ using System.Threading.Tasks;
 
 namespace Domain.Entidades
 {
+    [Table("UNIVERSIDADES")]
     public class Universidade
     {
         [Key]
+        [Column("ID")]
         public int Id { get; set; }
-        public string Descricao { get; set; }
-        public Especialista EspecialistaAvaliado { get; set; }
-        public string QuantidadeObjetos { get; set; }
+        [Column("NOME")]
+        public string Nome { get; set; }
+        [Column("CNPJ")]
+        public string Cnpj { get; set; }
+        [Column("CEP")]
+        public string Cep { get; set; }
 
     }
 }

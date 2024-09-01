@@ -8,10 +8,13 @@ using System.Threading.Tasks;
 
 namespace Domain.Entidades
 {
+    [Table("TIPO_USUARIOS_SISTEMA")]
     public class TipoUsuario
     {
         [Key]
+        [Column("ID")]
         public int Id { get; set; }
+        [Column("TIPO")]
         public string Tipo { get; set; }
 
     }

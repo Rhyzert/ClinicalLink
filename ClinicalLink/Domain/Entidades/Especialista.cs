@@ -15,5 +15,6 @@ namespace Domain.Entidades
         public string Descricao { get; set; }
         public DateTime Data { get; set; }
         public Usuario UsuarioConsulta { get; set; }
+        public Especialidade Especialidade { get; set; }
     }
 }

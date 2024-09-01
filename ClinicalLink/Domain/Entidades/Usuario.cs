@@ -13,21 +13,21 @@ namespace Domain.Entidades
     {
         [Key]
         [Required]
-        [Column("id")]
+        [Column("ID")]
         public int Id { get; set; }
-        [Column("nome")]
+        [Column("NOME")]
         public string Nome { get; set; }
-        [Column("senha")]
+        [Column("SENHA")]
         public string Senha { get; set; }
-        [Column("email")]
+        [Column("EMAIL")]
         public string Email { get; set; }
-        [Column("fone")]
+        [Column("FONE")]
         public string Phone { get; set; }
-        [Column("cep")]
+        [Column("CEP")]
         public string Cep { get; set; }
-        [Column("sexo")]
+        [Column("SEXO")]
         public string Sexo { get; set; }
-        [Column("tipousuario")]
+        [Column("TIPO_USUARIO")]
         public TipoUsuario Tipo {  get; set; }
         public byte[] PasswordHash { get; private set; }
         public byte[] PasswordSalt { get; private set; }
