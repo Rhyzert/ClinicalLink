@@ -20,11 +20,12 @@ namespace Domain.Entidades
         [Column("ESPECIALISTA")]
         public Especialista Especialista { get; set; }
         [Column("DATA_CONSULTA")]
-        public DateTime Data { get; set; }
+        public string Data { get; set; }
         [Column("USUARIO")]
         public Usuario UsuarioConsulta { get; set; }
         [Column("STATUS_CONSULTA")]
-        public string StatusConsulta { get; set; }
+        [StringLength(2)]
+        public StatusConsulta StatusConsulta { get; set; }
 
     }
 }

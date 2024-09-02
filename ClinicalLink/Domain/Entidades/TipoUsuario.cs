@@ -15,6 +15,7 @@ namespace Domain.Entidades
         [Column("ID")]
         public int Id { get; set; }
         [Column("TIPO")]
+        [StringLength(50)]
         public string Tipo { get; set; }
 
     }

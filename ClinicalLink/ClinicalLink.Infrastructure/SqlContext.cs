@@ -4,6 +4,8 @@ using Domain;
 using Domain.Entidades;
 using Microsoft.Identity.Client;
 using Microsoft.Extensions.DependencyInjection;
+using Microsoft.EntityFrameworkCore.Metadata.Builders;
+
 
 
 namespace ClinicalLink.Infrastructure
@@ -27,8 +29,10 @@ namespace ClinicalLink.Infrastructure
         public DbSet<Avaliacao> Avaliacoes { get; set; }
         public DbSet<Consulta> Consultas { get; set; }
         public DbSet<Especialidade> Especialidades { get; set; }
+        public DbSet<TipoUsuario> TiposUsuario { get; set; }
         public DbSet<Especialista> Especialistas { get; set; }
         public DbSet<Estado> Estados { get; set; }
+        public DbSet<Supervisao> Supervisoes { get; set; }
         public DbSet<Universidade> Universidades { get; set; }
         public DbSet<Usuario> Usuarios { get; set; }
 

@@ -8,13 +8,15 @@ using System.Threading.Tasks;
 
 namespace Domain.Entidades
 {
+    [Table("ESPECIALIDADES")]
     public class Especialidade
     {
+       
         [Key]
+        [Column("ID")]
         public int Id { get; set; }
+        [Column("DESCRICAO")]
         public string Descricao { get; set; }
-        public Especialista EspecialistaAvaliado { get; set; }
-        public string QuantidadeObjetos { get; set; }
 
     }
 }

@@ -13,7 +13,9 @@ namespace Domain.Entidades
         [Column("DESCRICAO")]
         [StringLength(100)]
         public string Descricao { get; set; }
-        [Column("ESPECIALISTA")]
+        [Column("USUARIO_AVALIACAO")]
+        public Usuario UsuarioAvaliacao { get; set; }
+        [Column("ESPECIALISTA_AVALIADO")]
         public Especialista EspecialistaAvaliado { get; set; }
         [Column("ESTRELAS")]
         public int Estrelas {  get; set; }

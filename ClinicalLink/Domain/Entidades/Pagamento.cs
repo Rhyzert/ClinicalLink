@@ -22,7 +22,7 @@ namespace Domain.Entidades
         [Column("TIPO_PAGAMENTO")]
         public Especialista TipoPagamento { get; set; }
         [Column("DATA_PAGAMENTO")]
-        public DateTime Data { get; set; }
-
+        public string Data { get; set; }
+        public float ValorPagamento { get; set; }
     }
 }

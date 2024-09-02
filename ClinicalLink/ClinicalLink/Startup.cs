@@ -40,10 +40,16 @@ namespace Application
             services.AddAutoMapper(typeof(Startup));
             services.AddScoped<IAvaliacaoRepository, AvaliacaoRepositorySql>();
             services.AddScoped<IUsuarioRepository, UsuarioRepositorySql>();
+            services.AddScoped<IUniversidadeRepository, UniversidadeRepositorySql>();
+
             services.AddScoped<IAvaliacaoService, AvaliacaoService>();
             services.AddScoped<IUsuarioService, UsuarioService>();
+            services.AddScoped<IUniversidadeService, UniversidadeService>();
+
+
             services.AddScoped<IAvaliacaoApplication, AvaliacaoApplication>();
             services.AddScoped<IUsuarioApplication, UsuarioApplication>();
+            services.AddScoped<IUniversidadeApplication, UniversidadeApplication>();
 
             services.AddDbContext<SqlContext>(options =>
             {
