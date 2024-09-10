@@ -53,7 +53,7 @@ namespace Application
 
             services.AddDbContext<SqlContext>(options =>
             {
-                options.UseNpgsql(Configuration.GetConnectionString("Default"),
+                options.UseNpgsql(Configuration.GetConnectionString("DefaultConnection"),
                     assembly => assembly.MigrationsAssembly(typeof(SqlContext).Assembly.FullName));
             });
             services.AddSwaggerGen(c =>

@@ -31,7 +31,6 @@ namespace ClinicalLink.Infrastructure
         public DbSet<Especialidade> Especialidades { get; set; }
         public DbSet<TipoUsuario> TiposUsuario { get; set; }
         public DbSet<Especialista> Especialistas { get; set; }
-        public DbSet<Estado> Estados { get; set; }
         public DbSet<Supervisao> Supervisoes { get; set; }
         public DbSet<Universidade> Universidades { get; set; }
         public DbSet<Usuario> Usuarios { get; set; }

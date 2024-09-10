@@ -34,3 +34,5 @@ C:\Projeto\ClinicalLink\ClinicalLink\Domain\obj\Debug\net8.0\refint\Domain.dll
 C:\Projeto\ClinicalLink\ClinicalLink\Domain\obj\Debug\net8.0\Domain.pdb
 C:\Projeto\ClinicalLink\ClinicalLink\Domain\obj\Debug\net8.0\ref\Domain.dll
 D:\Projeto\ClinicalLink\ClinicalLink\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
+D:\Projeto\ClinicalLink\ClinicalLink\Domain\bin\Debug\net8.0\Domain.runtimeconfig.json
+D:\Projeto\ClinicalLink\ClinicalLink\Domain\obj\Debug\net8.0\Domain.genruntimeconfig.cache
