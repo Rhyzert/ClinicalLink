@@ -26,6 +26,7 @@ namespace ClinicalLink.Infrastructure
               "User Id=postgres;" +
               "Password=kadugay;");*/
 
+        public DbSet<Agendamento> Agendamentos { get; set; }
         public DbSet<Avaliacao> Avaliacoes { get; set; }
         public DbSet<Consulta> Consultas { get; set; }
         public DbSet<Especialidade> Especialidades { get; set; }
@@ -33,6 +34,7 @@ namespace ClinicalLink.Infrastructure
         public DbSet<Especialista> Especialistas { get; set; }
         public DbSet<Supervisao> Supervisoes { get; set; }
         public DbSet<Universidade> Universidades { get; set; }
+        public DbSet<Pagamento> Pagamentos { get; set; }
         public DbSet<Usuario> Usuarios { get; set; }
 
 

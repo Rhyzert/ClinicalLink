@@ -8,6 +8,7 @@ using System.Threading.Tasks;
 
 namespace Domain.Entidades
 {
+    [Table("ESPECIALISTAS")]
     public class Especialista
     {
         [Key]
@@ -17,5 +18,7 @@ namespace Domain.Entidades
         public Usuario UsuarioEspecialista { get; set; }
         [Column("DESCRICAO")]
         public string Descricao { get; set; }
+        [Column("ID_ESPECIALIDADE")]
+        public Especialidade Especialidade { get; set; }
     }
 }

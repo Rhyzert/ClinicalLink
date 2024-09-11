@@ -38,18 +38,36 @@ namespace Application
                 options.SerializerSettings.ReferenceLoopHandling = Newtonsoft.Json.ReferenceLoopHandling.Ignore;
             });
             services.AddAutoMapper(typeof(Startup));
+            services.AddScoped<IAgendamentoRepository, AgendamentoRepositorySql>();
             services.AddScoped<IAvaliacaoRepository, AvaliacaoRepositorySql>();
+            services.AddScoped<IConsultaRepository, ConsultaRepositorySql>();
+            services.AddScoped<IEspecialidadeRepository, EspecialidadeRepositorySql>();
+            services.AddScoped<IEspecialistaRepository, EspecialistaRepositorySql>();
             services.AddScoped<IUsuarioRepository, UsuarioRepositorySql>();
             services.AddScoped<IUniversidadeRepository, UniversidadeRepositorySql>();
+            services.AddScoped<ISupervisaoRepository, SupervisaoRepositorySql>();
 
+            services.AddScoped<IAgendamentoService, AgendamentoService>();
             services.AddScoped<IAvaliacaoService, AvaliacaoService>();
+            services.AddScoped<IConsultaService, ConsultaService>();
+            services.AddScoped<IEspecialidadeService, EspecialidadeService>();
+            services.AddScoped<IEspecialistaService, EspecialistaService>();
+            services.AddScoped<IFuncionalidadeSupervisaoService, FuncionalidadeSupervisaoService>();
             services.AddScoped<IUsuarioService, UsuarioService>();
             services.AddScoped<IUniversidadeService, UniversidadeService>();
+            services.AddScoped<ISupervisaoService, SupervisaoService>();
+            
 
-
+            services.AddScoped<IAgendamentoApplication, AgendamentoApplication>();
             services.AddScoped<IAvaliacaoApplication, AvaliacaoApplication>();
+            services.AddScoped<IConsultaApplication, ConsultaApplication>();
+            services.AddScoped<IEspecialidadeApplication, EspecialidadeApplication>();
+            services.AddScoped<IEspecialistaApplication, EspecialistaApplication>();
+            services.AddScoped<IFuncionalidadeSupervisaoApplication, FuncionalidadeSupervisaoApplication>();
             services.AddScoped<IUsuarioApplication, UsuarioApplication>();
             services.AddScoped<IUniversidadeApplication, UniversidadeApplication>();
+            services.AddScoped<ISupervisaoApplication, SupervisaoApplication>();
+            
 
             services.AddDbContext<SqlContext>(options =>
             {
