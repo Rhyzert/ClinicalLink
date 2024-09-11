@@ -397,86 +397,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 10,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "PagamentoController.cs",
-              "DocumentMoniker": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ClinicalLink\\Controllers\\PagamentoController.cs",
-              "RelativeDocumentMoniker": "ClinicalLink\\Controllers\\PagamentoController.cs",
-              "ToolTip": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ClinicalLink\\Controllers\\PagamentoController.cs",
-              "RelativeToolTip": "ClinicalLink\\Controllers\\PagamentoController.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAgwB4AAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-11T12:36:16.222Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IPagamentoApplication.cs",
-              "DocumentMoniker": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ApplicationService\\Interface\\IPagamentoApplication.cs",
-              "RelativeDocumentMoniker": "ApplicationService\\Interface\\IPagamentoApplication.cs",
-              "ToolTip": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ApplicationService\\Interface\\IPagamentoApplication.cs",
-              "RelativeToolTip": "ApplicationService\\Interface\\IPagamentoApplication.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-11T12:35:13.227Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "PagamentoApplication.cs",
-              "DocumentMoniker": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ApplicationService\\Application\\PagamentoApplication.cs",
-              "RelativeDocumentMoniker": "ApplicationService\\Application\\PagamentoApplication.cs",
-              "ToolTip": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ApplicationService\\Application\\PagamentoApplication.cs",
-              "RelativeToolTip": "ApplicationService\\Application\\PagamentoApplication.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAqwBMAAAAzAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-11T12:34:47.745Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "PagamentoService.cs",
-              "DocumentMoniker": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\DomainService\\Services\\PagamentoService.cs",
-              "RelativeDocumentMoniker": "DomainService\\Services\\PagamentoService.cs",
-              "ToolTip": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\DomainService\\Services\\PagamentoService.cs",
-              "RelativeToolTip": "DomainService\\Services\\PagamentoService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA0AAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-11T12:21:40.709Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "IPagamentoService.cs",
-              "DocumentMoniker": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\DomainService\\Interfaces\\IPagamentoService.cs",
-              "RelativeDocumentMoniker": "DomainService\\Interfaces\\IPagamentoService.cs",
-              "ToolTip": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\DomainService\\Interfaces\\IPagamentoService.cs",
-              "RelativeToolTip": "DomainService\\Interfaces\\IPagamentoService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA6AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-11T12:21:20.559Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "PagamentoSupervisaoRepositorySql.cs",
-              "DocumentMoniker": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ClinicalLink.Infrastructure\\Repositories\\PagamentoSupervisaoRepositorySql.cs",
-              "RelativeDocumentMoniker": "ClinicalLink.Infrastructure\\Repositories\\PagamentoSupervisaoRepositorySql.cs",
-              "ToolTip": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ClinicalLink.Infrastructure\\Repositories\\PagamentoSupervisaoRepositorySql.cs",
-              "RelativeToolTip": "ClinicalLink.Infrastructure\\Repositories\\PagamentoSupervisaoRepositorySql.cs",
-              "ViewState": "AQIAABEAAAAAAAAAAAAQwCcAAAArAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-11T12:18:54.193Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
@@ -499,6 +421,79 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PagamentoController.cs",
+              "DocumentMoniker": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ClinicalLink\\Controllers\\PagamentoController.cs",
+              "RelativeDocumentMoniker": "ClinicalLink\\Controllers\\PagamentoController.cs",
+              "ToolTip": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ClinicalLink\\Controllers\\PagamentoController.cs",
+              "RelativeToolTip": "ClinicalLink\\Controllers\\PagamentoController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwB4AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T12:36:16.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IPagamentoApplication.cs",
+              "DocumentMoniker": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ApplicationService\\Interface\\IPagamentoApplication.cs",
+              "RelativeDocumentMoniker": "ApplicationService\\Interface\\IPagamentoApplication.cs",
+              "ToolTip": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ApplicationService\\Interface\\IPagamentoApplication.cs",
+              "RelativeToolTip": "ApplicationService\\Interface\\IPagamentoApplication.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T12:35:13.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PagamentoApplication.cs",
+              "DocumentMoniker": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ApplicationService\\Application\\PagamentoApplication.cs",
+              "RelativeDocumentMoniker": "ApplicationService\\Application\\PagamentoApplication.cs",
+              "ToolTip": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ApplicationService\\Application\\PagamentoApplication.cs",
+              "RelativeToolTip": "ApplicationService\\Application\\PagamentoApplication.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAqwBMAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T12:34:47.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PagamentoService.cs",
+              "DocumentMoniker": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\DomainService\\Services\\PagamentoService.cs",
+              "RelativeDocumentMoniker": "DomainService\\Services\\PagamentoService.cs",
+              "ToolTip": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\DomainService\\Services\\PagamentoService.cs",
+              "RelativeToolTip": "DomainService\\Services\\PagamentoService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA0AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T12:21:40.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IPagamentoService.cs",
+              "DocumentMoniker": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\DomainService\\Interfaces\\IPagamentoService.cs",
+              "RelativeDocumentMoniker": "DomainService\\Interfaces\\IPagamentoService.cs",
+              "ToolTip": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\DomainService\\Interfaces\\IPagamentoService.cs",
+              "RelativeToolTip": "DomainService\\Interfaces\\IPagamentoService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T12:21:20.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PagamentoSupervisaoRepositorySql.cs",
+              "DocumentMoniker": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ClinicalLink.Infrastructure\\Repositories\\PagamentoSupervisaoRepositorySql.cs",
+              "RelativeDocumentMoniker": "ClinicalLink.Infrastructure\\Repositories\\PagamentoSupervisaoRepositorySql.cs",
+              "ToolTip": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ClinicalLink.Infrastructure\\Repositories\\PagamentoSupervisaoRepositorySql.cs",
+              "RelativeToolTip": "ClinicalLink.Infrastructure\\Repositories\\PagamentoSupervisaoRepositorySql.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T12:18:54.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 10,
               "Title": "SupervisaoService.cs",
               "DocumentMoniker": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\DomainService\\Services\\SupervisaoService.cs",
@@ -507,8 +502,7 @@
               "RelativeToolTip": "DomainService\\Services\\SupervisaoService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-02T12:14:20.719Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-02T12:14:20.719Z"
             },
             {
               "$type": "Document",
@@ -520,8 +514,7 @@
               "RelativeToolTip": "ApplicationService\\Interface\\IAvaliacaoApplication.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-31T19:39:38.089Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-31T19:39:38.089Z"
             },
             {
               "$type": "Document",
@@ -533,8 +526,7 @@
               "RelativeToolTip": "ClinicalLink\\Controllers\\ConsultaController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-01T01:36:09.873Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-01T01:36:09.873Z"
             },
             {
               "$type": "Document",
@@ -546,8 +538,7 @@
               "RelativeToolTip": "ClinicalLink.Infrastructure\\Interface\\IPagamentoRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-11T12:18:15.746Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-11T12:18:15.746Z"
             },
             {
               "$type": "Document",
@@ -559,8 +550,7 @@
               "RelativeToolTip": "ApplicationService\\Interface\\IConsultaApplication.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-01T01:37:49.662Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-01T01:37:49.662Z"
             },
             {
               "$type": "Document",
@@ -572,8 +562,7 @@
               "RelativeToolTip": "ApplicationService\\Application\\ConsultaApplication.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-01T01:37:05.144Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-01T01:37:05.144Z"
             },
             {
               "$type": "Document",
@@ -585,8 +574,7 @@
               "RelativeToolTip": "ClinicalLink.Infrastructure\\Interface\\ISupervisaoRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-02T11:42:42.743Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-02T11:42:42.743Z"
             },
             {
               "$type": "Document",
@@ -598,8 +586,7 @@
               "RelativeToolTip": "Domain\\Entidades\\Pagamento.cs",
               "ViewState": "AQIAAAgAAAAAAAAAAAAUwBMAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-01T09:57:00.607Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-01T09:57:00.607Z"
             },
             {
               "$type": "Document",
@@ -611,8 +598,7 @@
               "RelativeToolTip": "ApplicationService\\Application\\AgendamentoApplication.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwBMAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-11T12:03:02.951Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-11T12:03:02.951Z"
             },
             {
               "$type": "Document",
@@ -624,8 +610,7 @@
               "RelativeToolTip": "ClinicalLink.Infrastructure\\SqlContext.cs",
               "ViewState": "AQIAAAwAAAAAAAAAAAA6wBwAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-31T19:31:37.568Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-31T19:31:37.568Z"
             },
             {
               "$type": "Document",
@@ -637,8 +622,7 @@
               "RelativeToolTip": "ClinicalLink\\Startup.cs",
               "ViewState": "AQIAACAAAAAAAAAAAAAiwEEAAABdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-01T01:10:31.749Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-01T01:10:31.749Z"
             },
             {
               "$type": "Document",
@@ -650,8 +634,7 @@
               "RelativeToolTip": "ClinicalLink\\Controllers\\AgendamentoController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-11T12:04:05.309Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-11T12:04:05.309Z"
             },
             {
               "$type": "Document",
@@ -663,8 +646,7 @@
               "RelativeToolTip": "DomainService\\Interfaces\\ISupervisaoService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-02T12:13:48.401Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-02T12:13:48.401Z"
             },
             {
               "$type": "Document",
@@ -676,8 +658,7 @@
               "RelativeToolTip": "ApplicationService\\Interface\\IAgendamentoApplication.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-11T12:03:18.589Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-11T12:03:18.589Z"
             },
             {
               "$type": "Document",
@@ -689,8 +670,7 @@
               "RelativeToolTip": "DomainService\\Services\\AgendamentoService.cs",
               "ViewState": "AQIAABUAAAAAAAAAAAA5wC8AAAA1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-11T12:01:59.551Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-11T12:01:59.551Z"
             },
             {
               "$type": "Document",
@@ -702,8 +682,7 @@
               "RelativeToolTip": "ClinicalLink.Infrastructure\\Repositories\\SupervisaoRepositorySql.cs",
               "ViewState": "AQIAAAwAAAAAAAAAAAAAABQAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-02T12:02:36.765Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-02T12:02:36.765Z"
             },
             {
               "$type": "Document",
@@ -715,8 +694,7 @@
               "RelativeToolTip": "DomainService\\Interfaces\\IAgendamentoService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-11T12:01:32.401Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-11T12:01:32.401Z"
             },
             {
               "$type": "Document",
@@ -728,8 +706,7 @@
               "RelativeToolTip": "ClinicalLink.Infrastructure\\Repositories\\AgendamentoRepositorySql.cs",
               "ViewState": "AQIAAB4AAAAAAAAAAAAowDQAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-11T11:59:44.578Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-11T11:59:44.578Z"
             },
             {
               "$type": "Document",
@@ -741,8 +718,7 @@
               "RelativeToolTip": "ClinicalLink.Infrastructure\\Interface\\IAgendamentoRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-11T11:47:47.622Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-11T11:47:47.622Z"
             },
             {
               "$type": "Document",
@@ -754,8 +730,7 @@
               "RelativeToolTip": "ClinicalLink\\Controllers\\AvaliacaoController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-30T18:27:11.609Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-30T18:27:11.609Z"
             },
             {
               "$type": "Document",
@@ -767,8 +742,7 @@
               "RelativeToolTip": "DomainService\\Services\\UsuarioService.cs",
               "ViewState": "AQIAAA4AAAAAAAAAAAAQwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-01T01:46:19.39Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-01T01:46:19.39Z"
             },
             {
               "$type": "Document",
@@ -780,8 +754,7 @@
               "RelativeToolTip": "ApplicationService\\Application\\AvaliacaoApplication.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-31T17:20:54.548Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-31T17:20:54.548Z"
             },
             {
               "$type": "Document",
@@ -817,8 +790,7 @@
               "RelativeToolTip": "DomainService\\Services\\AvaliacaoService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-30T19:35:18.401Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-30T19:35:18.401Z"
             },
             {
               "$type": "Document",
@@ -830,8 +802,7 @@
               "RelativeToolTip": "DomainService\\Interfaces\\IAvaliacaoService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-31T17:39:47.345Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-31T17:39:47.345Z"
             },
             {
               "$type": "Document",
@@ -891,8 +862,7 @@
               "RelativeToolTip": "ClinicalLink.Infrastructure\\Interface\\IAvaliacaoRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-31T17:45:21.244Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-31T17:45:21.244Z"
             },
             {
               "$type": "Document",
