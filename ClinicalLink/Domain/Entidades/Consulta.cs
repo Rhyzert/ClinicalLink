@@ -17,15 +17,22 @@ namespace Domain.Entidades
         [Column("DESCRICAO")]
         [StringLength(100)]
         public string Descricao { get; set; }
+        
+        [ForeignKey("EspecialistaId")]
+        public Usuario Especialista { get; set; }
         [Column("ESPECIALISTA")]
-        public Especialista Especialista { get; set; }
+        public int EspecialistaId { get; set; }
         [Column("DATA_CONSULTA")]
         public string Data { get; set; }
-        [Column("USUARIO")]
+        
+        [ForeignKey("UsuarioId")]
         public Usuario UsuarioConsulta { get; set; }
-        [Column("STATUS_CONSULTA")]
-        [StringLength(2)]
+        [Column("USUARIO")]
+        public int UsuarioId { get; set; }
+        [ForeignKey("StatusConsultaId")]
         public StatusConsulta StatusConsulta { get; set; }
+        [Column("STATUS_CONSULTA")]
+        public int StatusConsultaId { get; set; }
 
     }
 }

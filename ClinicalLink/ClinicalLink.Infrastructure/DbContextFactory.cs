@@ -15,7 +15,7 @@ namespace ClinicalLink.Infrastructure
         public SqlContext CreateDbContext(string[] args)
         {
             var path = @"D:\Projeto\ClinicalLink\ClinicalLink\ClinicalLink";
-            // Cria uma configuração para acessar a string de conexão do appsettings.json
+            
             IConfigurationRoot configuration = new ConfigurationBuilder()
                 .SetBasePath(path)
                 .AddJsonFile("appsettings.json")

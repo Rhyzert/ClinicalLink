@@ -22,6 +22,42 @@ namespace ClinicalLink.Infrastructure.Migrations
 
             NpgsqlModelBuilderExtensions.UseIdentityByDefaultColumns(modelBuilder);
 
+            modelBuilder.Entity("Domain.Entidades.Agendamento", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("integer")
+                        .HasColumnName("ID");
+
+                    NpgsqlPropertyBuilderExtensions.UseIdentityByDefaultColumn(b.Property<int>("Id"));
+
+                    b.Property<int>("DataConsulta")
+                        .HasColumnType("integer")
+                        .HasColumnName("DATA_CONSULTA");
+
+                    b.Property<string>("Descricao")
+                        .IsRequired()
+                        .HasMaxLength(100)
+                        .HasColumnType("character varying(100)")
+                        .HasColumnName("DESCRICAO");
+
+                    b.Property<int>("PsiquiatraResponsavelId")
+                        .HasColumnType("integer")
+                        .HasColumnName("ESPECIALISTA_AVALIADO");
+
+                    b.Property<int>("UsuarioId")
+                        .HasColumnType("integer")
+                        .HasColumnName("USUARIO_AVALIACAO");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("PsiquiatraResponsavelId");
+
+                    b.HasIndex("UsuarioId");
+
+                    b.ToTable("AGENDAMENTOS");
+                });
+
             modelBuilder.Entity("Domain.Entidades.Avaliacao", b =>
                 {
                     b.Property<int>("Id")
@@ -38,14 +74,16 @@ namespace ClinicalLink.Infrastructure.Migrations
                         .HasColumnName("DESCRICAO");
 
                     b.Property<int>("EspecialistaAvaliadoId")
-                        .HasColumnType("integer");
+                        .HasColumnType("integer")
+                        .HasColumnName("ESPECIALISTA_AVALIADO");
 
                     b.Property<int>("Estrelas")
                         .HasColumnType("integer")
                         .HasColumnName("ESTRELAS");
 
                     b.Property<int>("UsuarioAvaliacaoId")
-                        .HasColumnType("integer");
+                        .HasColumnType("integer")
+                        .HasColumnName("USUARIO_AVALIACAO");
 
                     b.HasKey("Id");
 
@@ -77,13 +115,16 @@ namespace ClinicalLink.Infrastructure.Migrations
                         .HasColumnName("DESCRICAO");
 
                     b.Property<int>("EspecialistaId")
-                        .HasColumnType("integer");
+                        .HasColumnType("integer")
+                        .HasColumnName("ESPECIALISTA");
 
                     b.Property<int>("StatusConsultaId")
-                        .HasColumnType("integer");
+                        .HasColumnType("integer")
+                        .HasColumnName("STATUS_CONSULTA");
 
-                    b.Property<int>("UsuarioConsultaId")
-                        .HasColumnType("integer");
+                    b.Property<int>("UsuarioId")
+                        .HasColumnType("integer")
+                        .HasColumnName("USUARIO");
 
                     b.HasKey("Id");
 
@@ -91,7 +132,7 @@ namespace ClinicalLink.Infrastructure.Migrations
 
                     b.HasIndex("StatusConsultaId");
 
-                    b.HasIndex("UsuarioConsultaId");
+                    b.HasIndex("UsuarioId");
 
                     b.ToTable("CONSULTAS");
                 });
@@ -129,14 +170,110 @@ namespace ClinicalLink.Infrastructure.Migrations
                         .HasColumnType("text")
                         .HasColumnName("DESCRICAO");
 
+                    b.Property<int>("EspecialidadeId")
+                        .HasColumnType("integer")
+                        .HasColumnName("ID_ESPECIALIDADE");
+
                     b.Property<int>("UsuarioEspecialistaId")
                         .HasColumnType("integer");
 
                     b.HasKey("Id");
 
+                    b.HasIndex("EspecialidadeId");
+
                     b.HasIndex("UsuarioEspecialistaId");
 
-                    b.ToTable("Especialistas");
+                    b.ToTable("ESPECIALISTAS");
+                });
+
+            modelBuilder.Entity("Domain.Entidades.Pagamento", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("integer")
+                        .HasColumnName("ID");
+
+                    NpgsqlPropertyBuilderExtensions.UseIdentityByDefaultColumn(b.Property<int>("Id"));
+
+                    b.Property<string>("AgenciaDestino")
+                        .IsRequired()
+                        .HasColumnType("text")
+                        .HasColumnName("AGENCIA_DESTINO");
+
+                    b.Property<string>("AgenciaOrigem")
+                        .IsRequired()
+                        .HasColumnType("text")
+                        .HasColumnName("AGENCIA_ORIGEM");
+
+                    b.Property<string>("ContaDestino")
+                        .IsRequired()
+                        .HasColumnType("text")
+                        .HasColumnName("CONTA_DESTINO");
+
+                    b.Property<string>("ContaOrigem")
+                        .IsRequired()
+                        .HasColumnType("text")
+                        .HasColumnName("CONTA_ORIGEM");
+
+                    b.Property<string>("Data")
+                        .IsRequired()
+                        .HasColumnType("text")
+                        .HasColumnName("DATA_PAGAMENTO");
+
+                    b.Property<string>("IdTransacao")
+                        .IsRequired()
+                        .HasColumnType("text")
+                        .HasColumnName("ID_TRANSACAO");
+
+                    b.Property<string>("InstituicaoDestino")
+                        .IsRequired()
+                        .HasColumnType("text")
+                        .HasColumnName("INSTITUICAO_DESTINO");
+
+                    b.Property<string>("InstituicaoOrigem")
+                        .IsRequired()
+                        .HasColumnType("text")
+                        .HasColumnName("INSTITUICAO_ORIGEM");
+
+                    b.Property<string>("NomeDestino")
+                        .IsRequired()
+                        .HasColumnType("text")
+                        .HasColumnName("NOME_DESTINO");
+
+                    b.Property<string>("NomeOrigem")
+                        .IsRequired()
+                        .HasColumnType("text")
+                        .HasColumnName("NOME_ORIGEM");
+
+                    b.Property<string>("TipoPagamento")
+                        .IsRequired()
+                        .HasColumnType("text")
+                        .HasColumnName("TIPO_PAGAMENTO");
+
+                    b.Property<string>("TipoTransferencia")
+                        .IsRequired()
+                        .HasColumnType("text")
+                        .HasColumnName("TIPO_TRANSFERENCIA");
+
+                    b.Property<int>("UsuarioDestinoId")
+                        .HasColumnType("integer")
+                        .HasColumnName("ESPECIALISTA_DESTINO");
+
+                    b.Property<int>("UsuarioOrigemId")
+                        .HasColumnType("integer")
+                        .HasColumnName("USUARIO_ORIGEM");
+
+                    b.Property<float>("Valor")
+                        .HasColumnType("real")
+                        .HasColumnName("VALOR");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("UsuarioDestinoId");
+
+                    b.HasIndex("UsuarioOrigemId");
+
+                    b.ToTable("PAGAMENTOS");
                 });
 
             modelBuilder.Entity("Domain.Entidades.StatusConsulta", b =>
@@ -175,10 +312,12 @@ namespace ClinicalLink.Infrastructure.Migrations
                         .HasColumnName("DESCRICAO");
 
                     b.Property<int>("UsuarioSupervisaoId")
-                        .HasColumnType("integer");
+                        .HasColumnType("integer")
+                        .HasColumnName("USUARIO");
 
                     b.Property<int>("UsuarioSupervisorId")
-                        .HasColumnType("integer");
+                        .HasColumnType("integer")
+                        .HasColumnName("USUARIO_SUPERVISOR");
 
                     b.HasKey("Id");
 
@@ -288,16 +427,36 @@ namespace ClinicalLink.Infrastructure.Migrations
                     b.Property<int?>("SupervisaoId")
                         .HasColumnType("integer");
 
-                    b.Property<int>("TipoId")
-                        .HasColumnType("integer");
+                    b.Property<int>("TipoUsuarioId")
+                        .HasColumnType("integer")
+                        .HasColumnName("TIPO_USUARIO");
 
                     b.HasKey("Id");
 
                     b.HasIndex("SupervisaoId");
 
-                    b.HasIndex("TipoId");
+                    b.HasIndex("TipoUsuarioId");
 
                     b.ToTable("USUARIOS_SISTEMA");
+                });
+
+            modelBuilder.Entity("Domain.Entidades.Agendamento", b =>
+                {
+                    b.HasOne("Domain.Entidades.Usuario", "PsiquiatraResponsavel")
+                        .WithMany()
+                        .HasForeignKey("PsiquiatraResponsavelId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.HasOne("Domain.Entidades.Usuario", "Usuario")
+                        .WithMany()
+                        .HasForeignKey("UsuarioId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("PsiquiatraResponsavel");
+
+                    b.Navigation("Usuario");
                 });
 
             modelBuilder.Entity("Domain.Entidades.Avaliacao", b =>
@@ -321,7 +480,7 @@ namespace ClinicalLink.Infrastructure.Migrations
 
             modelBuilder.Entity("Domain.Entidades.Consulta", b =>
                 {
-                    b.HasOne("Domain.Entidades.Especialista", "Especialista")
+                    b.HasOne("Domain.Entidades.Usuario", "Especialista")
                         .WithMany()
                         .HasForeignKey("EspecialistaId")
                         .OnDelete(DeleteBehavior.Cascade)
@@ -335,7 +494,7 @@ namespace ClinicalLink.Infrastructure.Migrations
 
                     b.HasOne("Domain.Entidades.Usuario", "UsuarioConsulta")
                         .WithMany()
-                        .HasForeignKey("UsuarioConsultaId")
+                        .HasForeignKey("UsuarioId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
@@ -348,13 +507,40 @@ namespace ClinicalLink.Infrastructure.Migrations
 
             modelBuilder.Entity("Domain.Entidades.Especialista", b =>
                 {
+                    b.HasOne("Domain.Entidades.Especialidade", "Especialidade")
+                        .WithMany()
+                        .HasForeignKey("EspecialidadeId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
                     b.HasOne("Domain.Entidades.Usuario", "UsuarioEspecialista")
                         .WithMany()
                         .HasForeignKey("UsuarioEspecialistaId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
+                    b.Navigation("Especialidade");
+
                     b.Navigation("UsuarioEspecialista");
+                });
+
+            modelBuilder.Entity("Domain.Entidades.Pagamento", b =>
+                {
+                    b.HasOne("Domain.Entidades.Usuario", "UsuarioDestino")
+                        .WithMany()
+                        .HasForeignKey("UsuarioDestinoId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.HasOne("Domain.Entidades.Usuario", "UsuarioOrigem")
+                        .WithMany()
+                        .HasForeignKey("UsuarioOrigemId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("UsuarioDestino");
+
+                    b.Navigation("UsuarioOrigem");
                 });
 
             modelBuilder.Entity("Domain.Entidades.Supervisao", b =>
@@ -382,13 +568,13 @@ namespace ClinicalLink.Infrastructure.Migrations
                         .WithMany("Subordinados")
                         .HasForeignKey("SupervisaoId");
 
-                    b.HasOne("Domain.Entidades.TipoUsuario", "Tipo")
+                    b.HasOne("Domain.Entidades.TipoUsuario", "TipoUsuario")
                         .WithMany()
-                        .HasForeignKey("TipoId")
+                        .HasForeignKey("TipoUsuarioId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
-                    b.Navigation("Tipo");
+                    b.Navigation("TipoUsuario");
                 });
 
             modelBuilder.Entity("Domain.Entidades.Supervisao", b =>

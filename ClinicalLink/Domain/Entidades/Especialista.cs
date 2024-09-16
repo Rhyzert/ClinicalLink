@@ -14,11 +14,15 @@ namespace Domain.Entidades
         [Key]
         [Column("ID")]
         public int Id { get; set; }
-        [Column("ID_USUARIO")]
+        [ForeignKey("UsuarioEspecialistaId")]
         public Usuario UsuarioEspecialista { get; set; }
+        [Column("ID_USUARIO")]
+        public int UsuarioEspecialistaId { get; set; }
         [Column("DESCRICAO")]
         public string Descricao { get; set; }
-        [Column("ID_ESPECIALIDADE")]
+        [ForeignKey("EspecialidadeId")]
         public Especialidade Especialidade { get; set; }
+        [Column("ID_ESPECIALIDADE")]
+        public int EspecialidadeId { get; set; }
     }
 }

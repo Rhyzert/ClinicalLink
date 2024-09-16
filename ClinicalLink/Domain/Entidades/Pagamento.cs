@@ -14,11 +14,16 @@ namespace Domain.Entidades
         [Key]
         [Column("ID")]
         public int Id { get; set; }
-        [Column("USUARIO_ORIGEM")]
-        [StringLength(100)]
+        
+        [ForeignKey("UsuarioOrigemId")]
         public Usuario UsuarioOrigem { get; set; }
+        [Column("USUARIO_ORIGEM")]
+        public int UsuarioOrigemId { get; set; }
+        
+        [ForeignKey("UsuarioDestinoId")]
+        public Usuario UsuarioDestino { get; set; }
         [Column("ESPECIALISTA_DESTINO")]
-        public Usuario EspecialistaDestino { get; set; }
+        public int UsuarioDestinoId { get; set; }
         [Column("TIPO_PAGAMENTO")]
         public string TipoPagamento { get; set; }
         [Column("DATA_PAGAMENTO")]

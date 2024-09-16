@@ -27,11 +27,13 @@ namespace Domain.Entidades
         public string Cep { get; set; }
         [Column("SEXO")]
         public string Sexo { get; set; }
+        [ForeignKey("TipoUsuarioId")]
+        public TipoUsuario TipoUsuario {  get; set; }
         [Column("TIPO_USUARIO")]
-        public TipoUsuario Tipo {  get; set; }
+        public int TipoUsuarioId { get; set; }
         public byte[] PasswordHash { get; private set; }
         public byte[] PasswordSalt { get; private set; }
-
+        
         //public Usuario(int id, string nome, string email)
         //{
         //    DomainExceptionValidation

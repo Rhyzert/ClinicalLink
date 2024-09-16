@@ -37,7 +37,7 @@ namespace ClinicalLink.Infrastructure.Repositories
         {
             try
             {
-                return _context.Pagamentos.Include(p => p.UsuarioOrigem) // Inclui a entidade UsuarioOrigem
+                return _context.Pagamentos.Include(p => p.UsuarioOrigem) 
                        .Where(x => x.UsuarioOrigem.Id == idUsuario)
                        .ToList(); ;
             }

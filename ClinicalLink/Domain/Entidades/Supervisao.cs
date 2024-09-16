@@ -14,15 +14,27 @@ namespace Domain.Entidades
         [Key]
         [Column("ID")]
         public int Id { get; set; }
+
         [Column("DESCRICAO")]
         [StringLength(100)]
         public string Descricao { get; set; }
+
+        // Propriedade de FK para UsuarioSupervisao
         [Column("USUARIO")]
+        public int UsuarioSupervisaoId { get; set; }
+
+        [ForeignKey("UsuarioSupervisaoId")]
         public Usuario UsuarioSupervisao { get; set; }
+
+        // Propriedade de FK para UsuarioSupervisor
         [Column("USUARIO_SUPERVISOR")]
+        public int UsuarioSupervisorId { get; set; }
+
+        [ForeignKey("UsuarioSupervisorId")]
         public Usuario UsuarioSupervisor { get; set; }
 
         public List<Usuario> Subordinados { get; set; }
-
     }
+
 }
+

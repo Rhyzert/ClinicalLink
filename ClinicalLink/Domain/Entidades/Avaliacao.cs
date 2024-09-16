@@ -13,10 +13,14 @@ namespace Domain.Entidades
         [Column("DESCRICAO")]
         [StringLength(100)]
         public string Descricao { get; set; }
-        [Column("USUARIO_AVALIACAO")]
+        [ForeignKey("UsuarioAvaliacaoId")]
         public Usuario UsuarioAvaliacao { get; set; }
-        [Column("ESPECIALISTA_AVALIADO")]
+        [Column("USUARIO_AVALIACAO")]
+        public int UsuarioAvaliacaoId { get; set; }
+        [ForeignKey("EspecialistaAvaliadoId")]
         public Especialista EspecialistaAvaliado { get; set; }
+        [Column("ESPECIALISTA_AVALIADO")]
+        public int EspecialistaAvaliadoId { get; private set; }
         [Column("ESTRELAS")]
         public int Estrelas {  get; set; }
 

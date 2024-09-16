@@ -3,8 +3,140 @@
   "WorkspaceRootPath": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{ED04F76D-7BBB-4AEB-B80C-8512D3051367}|ClinicalLink\\Application.csproj|d:\\projeto\\clinicallink\\clinicallink\\clinicallink\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{ED04F76D-7BBB-4AEB-B80C-8512D3051367}|ClinicalLink\\Application.csproj|solutionrelative:clinicallink\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75A96A4B-E261-404D-BDA1-D258D449051E}|DomainService\\DomainService.csproj|d:\\projeto\\clinicallink\\clinicallink\\domainservice\\services\\agendamentoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75A96A4B-E261-404D-BDA1-D258D449051E}|DomainService\\DomainService.csproj|solutionrelative:domainservice\\services\\agendamentoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75A96A4B-E261-404D-BDA1-D258D449051E}|DomainService\\DomainService.csproj|d:\\projeto\\clinicallink\\clinicallink\\domainservice\\services\\funcionalidadesupervisaoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75A96A4B-E261-404D-BDA1-D258D449051E}|DomainService\\DomainService.csproj|solutionrelative:domainservice\\services\\funcionalidadesupervisaoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDBADD13-0092-452F-8C30-85C7EFDAFCD9}|Domain\\Domain.csproj|d:\\projeto\\clinicallink\\clinicallink\\domain\\entidades\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDBADD13-0092-452F-8C30-85C7EFDAFCD9}|Domain\\Domain.csproj|solutionrelative:domain\\entidades\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDBADD13-0092-452F-8C30-85C7EFDAFCD9}|Domain\\Domain.csproj|d:\\projeto\\clinicallink\\clinicallink\\domain\\entidades\\especialista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDBADD13-0092-452F-8C30-85C7EFDAFCD9}|Domain\\Domain.csproj|solutionrelative:domain\\entidades\\especialista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED04F76D-7BBB-4AEB-B80C-8512D3051367}|ClinicalLink\\Application.csproj|d:\\projeto\\clinicallink\\clinicallink\\clinicallink\\controllers\\especialidadecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED04F76D-7BBB-4AEB-B80C-8512D3051367}|ClinicalLink\\Application.csproj|solutionrelative:clinicallink\\controllers\\especialidadecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED04F76D-7BBB-4AEB-B80C-8512D3051367}|ClinicalLink\\Application.csproj|d:\\projeto\\clinicallink\\clinicallink\\clinicallink\\controllers\\funcionalidadesupervisaocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED04F76D-7BBB-4AEB-B80C-8512D3051367}|ClinicalLink\\Application.csproj|solutionrelative:clinicallink\\controllers\\funcionalidadesupervisaocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDBADD13-0092-452F-8C30-85C7EFDAFCD9}|Domain\\Domain.csproj|d:\\projeto\\clinicallink\\clinicallink\\domain\\entidades\\avaliacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDBADD13-0092-452F-8C30-85C7EFDAFCD9}|Domain\\Domain.csproj|solutionrelative:domain\\entidades\\avaliacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75A96A4B-E261-404D-BDA1-D258D449051E}|DomainService\\DomainService.csproj|d:\\projeto\\clinicallink\\clinicallink\\domainservice\\services\\avaliacaoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75A96A4B-E261-404D-BDA1-D258D449051E}|DomainService\\DomainService.csproj|solutionrelative:domainservice\\services\\avaliacaoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDBADD13-0092-452F-8C30-85C7EFDAFCD9}|Domain\\Domain.csproj|d:\\projeto\\clinicallink\\clinicallink\\domain\\entidades\\consulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDBADD13-0092-452F-8C30-85C7EFDAFCD9}|Domain\\Domain.csproj|solutionrelative:domain\\entidades\\consulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDBADD13-0092-452F-8C30-85C7EFDAFCD9}|Domain\\Domain.csproj|d:\\projeto\\clinicallink\\clinicallink\\domain\\entidades\\pagamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDBADD13-0092-452F-8C30-85C7EFDAFCD9}|Domain\\Domain.csproj|solutionrelative:domain\\entidades\\pagamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDBADD13-0092-452F-8C30-85C7EFDAFCD9}|Domain\\Domain.csproj|d:\\projeto\\clinicallink\\clinicallink\\domain\\entidades\\agendamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDBADD13-0092-452F-8C30-85C7EFDAFCD9}|Domain\\Domain.csproj|solutionrelative:domain\\entidades\\agendamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDBADD13-0092-452F-8C30-85C7EFDAFCD9}|Domain\\Domain.csproj|d:\\projeto\\clinicallink\\clinicallink\\domain\\entidades\\cidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDBADD13-0092-452F-8C30-85C7EFDAFCD9}|Domain\\Domain.csproj|solutionrelative:domain\\entidades\\cidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75A96A4B-E261-404D-BDA1-D258D449051E}|DomainService\\DomainService.csproj|d:\\projeto\\clinicallink\\clinicallink\\domainservice\\interfaces\\iavaliacaoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75A96A4B-E261-404D-BDA1-D258D449051E}|DomainService\\DomainService.csproj|solutionrelative:domainservice\\interfaces\\iavaliacaoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75A96A4B-E261-404D-BDA1-D258D449051E}|DomainService\\DomainService.csproj|d:\\projeto\\clinicallink\\clinicallink\\domainservice\\interfaces\\iauthenticate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75A96A4B-E261-404D-BDA1-D258D449051E}|DomainService\\DomainService.csproj|solutionrelative:domainservice\\interfaces\\iauthenticate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDBADD13-0092-452F-8C30-85C7EFDAFCD9}|Domain\\Domain.csproj|d:\\projeto\\clinicallink\\clinicallink\\domain\\entidades\\supervisao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDBADD13-0092-452F-8C30-85C7EFDAFCD9}|Domain\\Domain.csproj|solutionrelative:domain\\entidades\\supervisao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75A96A4B-E261-404D-BDA1-D258D449051E}|DomainService\\DomainService.csproj|d:\\projeto\\clinicallink\\clinicallink\\domainservice\\services\\supervisaoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75A96A4B-E261-404D-BDA1-D258D449051E}|DomainService\\DomainService.csproj|solutionrelative:domainservice\\services\\supervisaoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projeto\\ClinicalLink\\ClinicalLink\\ClinicalLink.Infrastructure\\Migrations\\20240912224222_cz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ClinicalLink.Infrastructure\\Migrations\\20240912224222_cz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97DB525B-EDA0-4A9B-B9EF-72A97DB30D1C}|ClinicalLink.Infrastructure\\ClinicalLink.Infrastructure.csproj|d:\\projeto\\clinicallink\\clinicallink\\clinicallink.infrastructure\\dbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97DB525B-EDA0-4A9B-B9EF-72A97DB30D1C}|ClinicalLink.Infrastructure\\ClinicalLink.Infrastructure.csproj|solutionrelative:clinicallink.infrastructure\\dbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{97DB525B-EDA0-4A9B-B9EF-72A97DB30D1C}|ClinicalLink.Infrastructure\\ClinicalLink.Infrastructure.csproj|d:\\projeto\\clinicallink\\clinicallink\\clinicallink.infrastructure\\repositories\\pagamentosupervisaorepositorysql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{97DB525B-EDA0-4A9B-B9EF-72A97DB30D1C}|ClinicalLink.Infrastructure\\ClinicalLink.Infrastructure.csproj|solutionrelative:clinicallink.infrastructure\\repositories\\pagamentosupervisaorepositorysql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projeto\\ClinicalLink\\ClinicalLink\\ClinicalLink.Infrastructure\\Migrations\\20240912221117_cuzin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ClinicalLink.Infrastructure\\Migrations\\20240912221117_cuzin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97DB525B-EDA0-4A9B-B9EF-72A97DB30D1C}|ClinicalLink.Infrastructure\\ClinicalLink.Infrastructure.csproj|d:\\projeto\\clinicallink\\clinicallink\\clinicallink.infrastructure\\repositories\\usuariorepositorysql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97DB525B-EDA0-4A9B-B9EF-72A97DB30D1C}|ClinicalLink.Infrastructure\\ClinicalLink.Infrastructure.csproj|solutionrelative:clinicallink.infrastructure\\repositories\\usuariorepositorysql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED04F76D-7BBB-4AEB-B80C-8512D3051367}|ClinicalLink\\Application.csproj|d:\\projeto\\clinicallink\\clinicallink\\clinicallink\\controllers\\consultacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED04F76D-7BBB-4AEB-B80C-8512D3051367}|ClinicalLink\\Application.csproj|solutionrelative:clinicallink\\controllers\\consultacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED04F76D-7BBB-4AEB-B80C-8512D3051367}|ClinicalLink\\Application.csproj|d:\\projeto\\clinicallink\\clinicallink\\clinicallink\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED04F76D-7BBB-4AEB-B80C-8512D3051367}|ClinicalLink\\Application.csproj|solutionrelative:clinicallink\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97DB525B-EDA0-4A9B-B9EF-72A97DB30D1C}|ClinicalLink.Infrastructure\\ClinicalLink.Infrastructure.csproj|d:\\projeto\\clinicallink\\clinicallink\\clinicallink.infrastructure\\repositories\\universidaderepositorysql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97DB525B-EDA0-4A9B-B9EF-72A97DB30D1C}|ClinicalLink.Infrastructure\\ClinicalLink.Infrastructure.csproj|solutionrelative:clinicallink.infrastructure\\repositories\\universidaderepositorysql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BFEFF58-C93F-48B2-BD62-86AEE824A52F}|ApplicationService\\ApplicationService.csproj|d:\\projeto\\clinicallink\\clinicallink\\applicationservice\\applicationservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8BFEFF58-C93F-48B2-BD62-86AEE824A52F}|ApplicationService\\ApplicationService.csproj|solutionrelative:applicationservice\\applicationservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED04F76D-7BBB-4AEB-B80C-8512D3051367}|ClinicalLink\\Application.csproj|d:\\projeto\\clinicallink\\clinicallink\\clinicallink\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED04F76D-7BBB-4AEB-B80C-8512D3051367}|ClinicalLink\\Application.csproj|solutionrelative:clinicallink\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97DB525B-EDA0-4A9B-B9EF-72A97DB30D1C}|ClinicalLink.Infrastructure\\ClinicalLink.Infrastructure.csproj|d:\\projeto\\clinicallink\\clinicallink\\clinicallink.infrastructure\\sqlcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97DB525B-EDA0-4A9B-B9EF-72A97DB30D1C}|ClinicalLink.Infrastructure\\ClinicalLink.Infrastructure.csproj|solutionrelative:clinicallink.infrastructure\\sqlcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BFEFF58-C93F-48B2-BD62-86AEE824A52F}|ApplicationService\\ApplicationService.csproj|d:\\projeto\\clinicallink\\clinicallink\\applicationservice\\application\\funcionalidadesupervisaoapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BFEFF58-C93F-48B2-BD62-86AEE824A52F}|ApplicationService\\ApplicationService.csproj|solutionrelative:applicationservice\\application\\funcionalidadesupervisaoapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BFEFF58-C93F-48B2-BD62-86AEE824A52F}|ApplicationService\\ApplicationService.csproj|d:\\projeto\\clinicallink\\clinicallink\\applicationservice\\interface\\ifuncionalidadesupervisaoapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BFEFF58-C93F-48B2-BD62-86AEE824A52F}|ApplicationService\\ApplicationService.csproj|solutionrelative:applicationservice\\interface\\ifuncionalidadesupervisaoapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75A96A4B-E261-404D-BDA1-D258D449051E}|DomainService\\DomainService.csproj|d:\\projeto\\clinicallink\\clinicallink\\domainservice\\interfaces\\ifuncionalidadesupervisaoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75A96A4B-E261-404D-BDA1-D258D449051E}|DomainService\\DomainService.csproj|solutionrelative:domainservice\\interfaces\\ifuncionalidadesupervisaoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97DB525B-EDA0-4A9B-B9EF-72A97DB30D1C}|ClinicalLink.Infrastructure\\ClinicalLink.Infrastructure.csproj|d:\\projeto\\clinicallink\\clinicallink\\clinicallink.infrastructure\\interface\\ifuncionalidadesupervisaorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97DB525B-EDA0-4A9B-B9EF-72A97DB30D1C}|ClinicalLink.Infrastructure\\ClinicalLink.Infrastructure.csproj|solutionrelative:clinicallink.infrastructure\\interface\\ifuncionalidadesupervisaorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97DB525B-EDA0-4A9B-B9EF-72A97DB30D1C}|ClinicalLink.Infrastructure\\ClinicalLink.Infrastructure.csproj|d:\\projeto\\clinicallink\\clinicallink\\clinicallink.infrastructure\\repositories\\funcionalidadesupervisaorepositorysql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97DB525B-EDA0-4A9B-B9EF-72A97DB30D1C}|ClinicalLink.Infrastructure\\ClinicalLink.Infrastructure.csproj|solutionrelative:clinicallink.infrastructure\\repositories\\funcionalidadesupervisaorepositorysql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97DB525B-EDA0-4A9B-B9EF-72A97DB30D1C}|ClinicalLink.Infrastructure\\ClinicalLink.Infrastructure.csproj|d:\\projeto\\clinicallink\\clinicallink\\clinicallink.infrastructure\\interface\\isupervisaorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97DB525B-EDA0-4A9B-B9EF-72A97DB30D1C}|ClinicalLink.Infrastructure\\ClinicalLink.Infrastructure.csproj|solutionrelative:clinicallink.infrastructure\\interface\\isupervisaorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{ED04F76D-7BBB-4AEB-B80C-8512D3051367}|ClinicalLink\\Application.csproj|d:\\projeto\\clinicallink\\clinicallink\\clinicallink\\controllers\\pagamentocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -17,10 +149,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{8BFEFF58-C93F-48B2-BD62-86AEE824A52F}|ApplicationService\\ApplicationService.csproj|d:\\projeto\\clinicallink\\clinicallink\\applicationservice\\interface\\ipagamentoapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8BFEFF58-C93F-48B2-BD62-86AEE824A52F}|ApplicationService\\ApplicationService.csproj|solutionrelative:applicationservice\\interface\\ipagamentoapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ED04F76D-7BBB-4AEB-B80C-8512D3051367}|ClinicalLink\\Application.csproj|d:\\projeto\\clinicallink\\clinicallink\\clinicallink\\controllers\\consultacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ED04F76D-7BBB-4AEB-B80C-8512D3051367}|ClinicalLink\\Application.csproj|solutionrelative:clinicallink\\controllers\\consultacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8BFEFF58-C93F-48B2-BD62-86AEE824A52F}|ApplicationService\\ApplicationService.csproj|d:\\projeto\\clinicallink\\clinicallink\\applicationservice\\application\\consultaapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -43,20 +171,8 @@
       "RelativeMoniker": "D:0:0:{75A96A4B-E261-404D-BDA1-D258D449051E}|DomainService\\DomainService.csproj|solutionrelative:domainservice\\interfaces\\ipagamentoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{75A96A4B-E261-404D-BDA1-D258D449051E}|DomainService\\DomainService.csproj|d:\\projeto\\clinicallink\\clinicallink\\domainservice\\services\\supervisaoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{75A96A4B-E261-404D-BDA1-D258D449051E}|DomainService\\DomainService.csproj|solutionrelative:domainservice\\services\\supervisaoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{97DB525B-EDA0-4A9B-B9EF-72A97DB30D1C}|ClinicalLink.Infrastructure\\ClinicalLink.Infrastructure.csproj|d:\\projeto\\clinicallink\\clinicallink\\clinicallink.infrastructure\\interface\\ipagamentorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{97DB525B-EDA0-4A9B-B9EF-72A97DB30D1C}|ClinicalLink.Infrastructure\\ClinicalLink.Infrastructure.csproj|solutionrelative:clinicallink.infrastructure\\interface\\ipagamentorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{97DB525B-EDA0-4A9B-B9EF-72A97DB30D1C}|ClinicalLink.Infrastructure\\ClinicalLink.Infrastructure.csproj|d:\\projeto\\clinicallink\\clinicallink\\clinicallink.infrastructure\\interface\\isupervisaorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{97DB525B-EDA0-4A9B-B9EF-72A97DB30D1C}|ClinicalLink.Infrastructure\\ClinicalLink.Infrastructure.csproj|solutionrelative:clinicallink.infrastructure\\interface\\isupervisaorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BDBADD13-0092-452F-8C30-85C7EFDAFCD9}|Domain\\Domain.csproj|d:\\projeto\\clinicallink\\clinicallink\\domain\\entidades\\pagamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BDBADD13-0092-452F-8C30-85C7EFDAFCD9}|Domain\\Domain.csproj|solutionrelative:domain\\entidades\\pagamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{75A96A4B-E261-404D-BDA1-D258D449051E}|DomainService\\DomainService.csproj|d:\\projeto\\clinicallink\\clinicallink\\domainservice\\interfaces\\isupervisaoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -67,16 +183,8 @@
       "RelativeMoniker": "D:0:0:{8BFEFF58-C93F-48B2-BD62-86AEE824A52F}|ApplicationService\\ApplicationService.csproj|solutionrelative:applicationservice\\application\\agendamentoapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97DB525B-EDA0-4A9B-B9EF-72A97DB30D1C}|ClinicalLink.Infrastructure\\ClinicalLink.Infrastructure.csproj|d:\\projeto\\clinicallink\\clinicallink\\clinicallink.infrastructure\\sqlcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{97DB525B-EDA0-4A9B-B9EF-72A97DB30D1C}|ClinicalLink.Infrastructure\\ClinicalLink.Infrastructure.csproj|solutionrelative:clinicallink.infrastructure\\sqlcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{97DB525B-EDA0-4A9B-B9EF-72A97DB30D1C}|ClinicalLink.Infrastructure\\ClinicalLink.Infrastructure.csproj|d:\\projeto\\clinicallink\\clinicallink\\clinicallink.infrastructure\\repositories\\supervisaorepositorysql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{97DB525B-EDA0-4A9B-B9EF-72A97DB30D1C}|ClinicalLink.Infrastructure\\ClinicalLink.Infrastructure.csproj|solutionrelative:clinicallink.infrastructure\\repositories\\supervisaorepositorysql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ED04F76D-7BBB-4AEB-B80C-8512D3051367}|ClinicalLink\\Application.csproj|d:\\projeto\\clinicallink\\clinicallink\\clinicallink\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ED04F76D-7BBB-4AEB-B80C-8512D3051367}|ClinicalLink\\Application.csproj|solutionrelative:clinicallink\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{ED04F76D-7BBB-4AEB-B80C-8512D3051367}|ClinicalLink\\Application.csproj|d:\\projeto\\clinicallink\\clinicallink\\clinicallink\\controllers\\agendamentocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -95,20 +203,8 @@
       "RelativeMoniker": "D:0:0:{8BFEFF58-C93F-48B2-BD62-86AEE824A52F}|ApplicationService\\ApplicationService.csproj|solutionrelative:applicationservice\\application\\avaliacaoapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{75A96A4B-E261-404D-BDA1-D258D449051E}|DomainService\\DomainService.csproj|d:\\projeto\\clinicallink\\clinicallink\\domainservice\\services\\agendamentoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{75A96A4B-E261-404D-BDA1-D258D449051E}|DomainService\\DomainService.csproj|solutionrelative:domainservice\\services\\agendamentoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{75A96A4B-E261-404D-BDA1-D258D449051E}|DomainService\\DomainService.csproj|d:\\projeto\\clinicallink\\clinicallink\\domainservice\\interfaces\\iagendamentoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{75A96A4B-E261-404D-BDA1-D258D449051E}|DomainService\\DomainService.csproj|solutionrelative:domainservice\\interfaces\\iagendamentoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{75A96A4B-E261-404D-BDA1-D258D449051E}|DomainService\\DomainService.csproj|d:\\projeto\\clinicallink\\clinicallink\\domainservice\\interfaces\\iavaliacaoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{75A96A4B-E261-404D-BDA1-D258D449051E}|DomainService\\DomainService.csproj|solutionrelative:domainservice\\interfaces\\iavaliacaoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{75A96A4B-E261-404D-BDA1-D258D449051E}|DomainService\\DomainService.csproj|d:\\projeto\\clinicallink\\clinicallink\\domainservice\\services\\avaliacaoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{75A96A4B-E261-404D-BDA1-D258D449051E}|DomainService\\DomainService.csproj|solutionrelative:domainservice\\services\\avaliacaoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{97DB525B-EDA0-4A9B-B9EF-72A97DB30D1C}|ClinicalLink.Infrastructure\\ClinicalLink.Infrastructure.csproj|d:\\projeto\\clinicallink\\clinicallink\\clinicallink.infrastructure\\repositories\\agendamentorepositorysql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -131,30 +227,6 @@
       "RelativeMoniker": "D:0:0:{97DB525B-EDA0-4A9B-B9EF-72A97DB30D1C}|ClinicalLink.Infrastructure\\ClinicalLink.Infrastructure.csproj|solutionrelative:clinicallink.infrastructure\\interface\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ED04F76D-7BBB-4AEB-B80C-8512D3051367}|ClinicalLink\\Application.csproj|d:\\projeto\\clinicallink\\clinicallink\\clinicallink\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ED04F76D-7BBB-4AEB-B80C-8512D3051367}|ClinicalLink\\Application.csproj|solutionrelative:clinicallink\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{97DB525B-EDA0-4A9B-B9EF-72A97DB30D1C}|ClinicalLink.Infrastructure\\ClinicalLink.Infrastructure.csproj|d:\\projeto\\clinicallink\\clinicallink\\clinicallink.infrastructure\\dbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{97DB525B-EDA0-4A9B-B9EF-72A97DB30D1C}|ClinicalLink.Infrastructure\\ClinicalLink.Infrastructure.csproj|solutionrelative:clinicallink.infrastructure\\dbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BDBADD13-0092-452F-8C30-85C7EFDAFCD9}|Domain\\Domain.csproj|d:\\projeto\\clinicallink\\clinicallink\\domain\\entidades\\agendamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BDBADD13-0092-452F-8C30-85C7EFDAFCD9}|Domain\\Domain.csproj|solutionrelative:domain\\entidades\\agendamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BDBADD13-0092-452F-8C30-85C7EFDAFCD9}|Domain\\Domain.csproj|d:\\projeto\\clinicallink\\clinicallink\\domain\\entidades\\avaliacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BDBADD13-0092-452F-8C30-85C7EFDAFCD9}|Domain\\Domain.csproj|solutionrelative:domain\\entidades\\avaliacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BDBADD13-0092-452F-8C30-85C7EFDAFCD9}|Domain\\Domain.csproj|d:\\projeto\\clinicallink\\clinicallink\\domain\\entidades\\cidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BDBADD13-0092-452F-8C30-85C7EFDAFCD9}|Domain\\Domain.csproj|solutionrelative:domain\\entidades\\cidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BDBADD13-0092-452F-8C30-85C7EFDAFCD9}|Domain\\Domain.csproj|d:\\projeto\\clinicallink\\clinicallink\\domain\\entidades\\supervisao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BDBADD13-0092-452F-8C30-85C7EFDAFCD9}|Domain\\Domain.csproj|solutionrelative:domain\\entidades\\supervisao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BDBADD13-0092-452F-8C30-85C7EFDAFCD9}|Domain\\Domain.csproj|d:\\projeto\\clinicallink\\clinicallink\\domain\\entidades\\statusconsulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BDBADD13-0092-452F-8C30-85C7EFDAFCD9}|Domain\\Domain.csproj|solutionrelative:domain\\entidades\\statusconsulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -165,26 +237,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{BDBADD13-0092-452F-8C30-85C7EFDAFCD9}|Domain\\Domain.csproj|d:\\projeto\\clinicallink\\clinicallink\\domain\\entidades\\tipousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BDBADD13-0092-452F-8C30-85C7EFDAFCD9}|Domain\\Domain.csproj|solutionrelative:domain\\entidades\\tipousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{75A96A4B-E261-404D-BDA1-D258D449051E}|DomainService\\DomainService.csproj|d:\\projeto\\clinicallink\\clinicallink\\domainservice\\interfaces\\ifuncionalidadesupervisaoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{75A96A4B-E261-404D-BDA1-D258D449051E}|DomainService\\DomainService.csproj|solutionrelative:domainservice\\interfaces\\ifuncionalidadesupervisaoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BDBADD13-0092-452F-8C30-85C7EFDAFCD9}|Domain\\Domain.csproj|d:\\projeto\\clinicallink\\clinicallink\\domain\\entidades\\especialista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BDBADD13-0092-452F-8C30-85C7EFDAFCD9}|Domain\\Domain.csproj|solutionrelative:domain\\entidades\\especialista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BDBADD13-0092-452F-8C30-85C7EFDAFCD9}|Domain\\Domain.csproj|d:\\projeto\\clinicallink\\clinicallink\\domain\\entidades\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BDBADD13-0092-452F-8C30-85C7EFDAFCD9}|Domain\\Domain.csproj|solutionrelative:domain\\entidades\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{97DB525B-EDA0-4A9B-B9EF-72A97DB30D1C}|ClinicalLink.Infrastructure\\ClinicalLink.Infrastructure.csproj|d:\\projeto\\clinicallink\\clinicallink\\clinicallink.infrastructure\\interface\\ifuncionalidadesupervisaorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{97DB525B-EDA0-4A9B-B9EF-72A97DB30D1C}|ClinicalLink.Infrastructure\\ClinicalLink.Infrastructure.csproj|solutionrelative:clinicallink.infrastructure\\interface\\ifuncionalidadesupervisaorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ED04F76D-7BBB-4AEB-B80C-8512D3051367}|ClinicalLink\\Application.csproj|d:\\projeto\\clinicallink\\clinicallink\\clinicallink\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{ED04F76D-7BBB-4AEB-B80C-8512D3051367}|ClinicalLink\\Application.csproj|solutionrelative:clinicallink\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\8.0.303\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.Shared.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
@@ -198,24 +250,12 @@
       "RelativeMoniker": "D:0:0:{BDBADD13-0092-452F-8C30-85C7EFDAFCD9}|Domain\\Domain.csproj|solutionrelative:domain\\entidades\\especialidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97DB525B-EDA0-4A9B-B9EF-72A97DB30D1C}|ClinicalLink.Infrastructure\\ClinicalLink.Infrastructure.csproj|d:\\projeto\\clinicallink\\clinicallink\\clinicallink.infrastructure\\repositories\\funcionalidadesupervisaorepositorysql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{97DB525B-EDA0-4A9B-B9EF-72A97DB30D1C}|ClinicalLink.Infrastructure\\ClinicalLink.Infrastructure.csproj|solutionrelative:clinicallink.infrastructure\\repositories\\funcionalidadesupervisaorepositorysql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{75A96A4B-E261-404D-BDA1-D258D449051E}|DomainService\\DomainService.csproj|d:\\projeto\\clinicallink\\clinicallink\\domainservice\\interfaces\\iuniversidadeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{75A96A4B-E261-404D-BDA1-D258D449051E}|DomainService\\DomainService.csproj|solutionrelative:domainservice\\interfaces\\iuniversidadeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BDBADD13-0092-452F-8C30-85C7EFDAFCD9}|Domain\\Domain.csproj|d:\\projeto\\clinicallink\\clinicallink\\domain\\entidades\\consulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BDBADD13-0092-452F-8C30-85C7EFDAFCD9}|Domain\\Domain.csproj|solutionrelative:domain\\entidades\\consulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{75A96A4B-E261-404D-BDA1-D258D449051E}|DomainService\\DomainService.csproj|d:\\projeto\\clinicallink\\clinicallink\\domainservice\\services\\universidadeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{75A96A4B-E261-404D-BDA1-D258D449051E}|DomainService\\DomainService.csproj|solutionrelative:domainservice\\services\\universidadeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ED04F76D-7BBB-4AEB-B80C-8512D3051367}|ClinicalLink\\Application.csproj|d:\\projeto\\clinicallink\\clinicallink\\clinicallink\\controllers\\funcionalidadesupervisaocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ED04F76D-7BBB-4AEB-B80C-8512D3051367}|ClinicalLink\\Application.csproj|solutionrelative:clinicallink\\controllers\\funcionalidadesupervisaocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{ED04F76D-7BBB-4AEB-B80C-8512D3051367}|ClinicalLink\\Application.csproj|d:\\projeto\\clinicallink\\clinicallink\\clinicallink\\controllers\\authcontrolller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -236,18 +276,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{ED04F76D-7BBB-4AEB-B80C-8512D3051367}|ClinicalLink\\Application.csproj|d:\\projeto\\clinicallink\\clinicallink\\clinicallink\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ED04F76D-7BBB-4AEB-B80C-8512D3051367}|ClinicalLink\\Application.csproj|solutionrelative:clinicallink\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8BFEFF58-C93F-48B2-BD62-86AEE824A52F}|ApplicationService\\ApplicationService.csproj|d:\\projeto\\clinicallink\\clinicallink\\applicationservice\\application\\funcionalidadesupervisaoapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8BFEFF58-C93F-48B2-BD62-86AEE824A52F}|ApplicationService\\ApplicationService.csproj|solutionrelative:applicationservice\\application\\funcionalidadesupervisaoapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{75A96A4B-E261-404D-BDA1-D258D449051E}|DomainService\\DomainService.csproj|d:\\projeto\\clinicallink\\clinicallink\\domainservice\\services\\funcionalidadesupervisaoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{75A96A4B-E261-404D-BDA1-D258D449051E}|DomainService\\DomainService.csproj|solutionrelative:domainservice\\services\\funcionalidadesupervisaoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8BFEFF58-C93F-48B2-BD62-86AEE824A52F}|ApplicationService\\ApplicationService.csproj|d:\\projeto\\clinicallink\\clinicallink\\applicationservice\\interface\\ifuncionalidadesupervisaoapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8BFEFF58-C93F-48B2-BD62-86AEE824A52F}|ApplicationService\\ApplicationService.csproj|solutionrelative:applicationservice\\interface\\ifuncionalidadesupervisaoapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{75A96A4B-E261-404D-BDA1-D258D449051E}|DomainService\\DomainService.csproj|d:\\projeto\\clinicallink\\clinicallink\\domainservice\\interfaces\\iconsultaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -278,10 +306,6 @@
       "RelativeMoniker": "D:0:0:{8BFEFF58-C93F-48B2-BD62-86AEE824A52F}|ApplicationService\\ApplicationService.csproj|solutionrelative:applicationservice\\application\\supervisaoapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97DB525B-EDA0-4A9B-B9EF-72A97DB30D1C}|ClinicalLink.Infrastructure\\ClinicalLink.Infrastructure.csproj|d:\\projeto\\clinicallink\\clinicallink\\clinicallink.infrastructure\\repositories\\universidaderepositorysql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{97DB525B-EDA0-4A9B-B9EF-72A97DB30D1C}|ClinicalLink.Infrastructure\\ClinicalLink.Infrastructure.csproj|solutionrelative:clinicallink.infrastructure\\repositories\\universidaderepositorysql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{ED04F76D-7BBB-4AEB-B80C-8512D3051367}|ClinicalLink\\Application.csproj|d:\\projeto\\clinicallink\\clinicallink\\clinicallink\\controllers\\universidadecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ED04F76D-7BBB-4AEB-B80C-8512D3051367}|ClinicalLink\\Application.csproj|solutionrelative:clinicallink\\controllers\\universidadecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -300,10 +324,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{8BFEFF58-C93F-48B2-BD62-86AEE824A52F}|ApplicationService\\ApplicationService.csproj|d:\\projeto\\clinicallink\\clinicallink\\applicationservice\\application\\especialidadeapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8BFEFF58-C93F-48B2-BD62-86AEE824A52F}|ApplicationService\\ApplicationService.csproj|solutionrelative:applicationservice\\application\\especialidadeapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ED04F76D-7BBB-4AEB-B80C-8512D3051367}|ClinicalLink\\Application.csproj|d:\\projeto\\clinicallink\\clinicallink\\clinicallink\\controllers\\especialidadecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ED04F76D-7BBB-4AEB-B80C-8512D3051367}|ClinicalLink\\Application.csproj|solutionrelative:clinicallink\\controllers\\especialidadecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{97DB525B-EDA0-4A9B-B9EF-72A97DB30D1C}|ClinicalLink.Infrastructure\\ClinicalLink.Infrastructure.csproj|d:\\projeto\\clinicallink\\clinicallink\\clinicallink.infrastructure\\interface\\iespecialidaderepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -354,10 +374,6 @@
       "RelativeMoniker": "D:0:0:{8BFEFF58-C93F-48B2-BD62-86AEE824A52F}|ApplicationService\\ApplicationService.csproj|solutionrelative:applicationservice\\application\\usuarioapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{75A96A4B-E261-404D-BDA1-D258D449051E}|DomainService\\DomainService.csproj|d:\\projeto\\clinicallink\\clinicallink\\domainservice\\interfaces\\iauthenticate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{75A96A4B-E261-404D-BDA1-D258D449051E}|DomainService\\DomainService.csproj|solutionrelative:domainservice\\interfaces\\iauthenticate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{ED04F76D-7BBB-4AEB-B80C-8512D3051367}|ClinicalLink\\Application.csproj|d:\\projeto\\clinicallink\\clinicallink\\clinicallink\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{ED04F76D-7BBB-4AEB-B80C-8512D3051367}|ClinicalLink\\Application.csproj|solutionrelative:clinicallink\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
@@ -386,8 +402,8 @@
       "RelativeMoniker": "D:0:0:{ED04F76D-7BBB-4AEB-B80C-8512D3051367}|ClinicalLink\\Application.csproj|solutionrelative:clinicallink\\clinicallink.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97DB525B-EDA0-4A9B-B9EF-72A97DB30D1C}|ClinicalLink.Infrastructure\\ClinicalLink.Infrastructure.csproj|d:\\projeto\\clinicallink\\clinicallink\\clinicallink.infrastructure\\migrations\\20240910190519_cuzin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{97DB525B-EDA0-4A9B-B9EF-72A97DB30D1C}|ClinicalLink.Infrastructure\\ClinicalLink.Infrastructure.csproj|solutionrelative:clinicallink.infrastructure\\migrations\\20240910190519_cuzin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{97DB525B-EDA0-4A9B-B9EF-72A97DB30D1C}|ClinicalLink.Infrastructure\\ClinicalLink.Infrastructure.csproj|d:\\projeto\\clinicallink\\clinicallink\\clinicallink.infrastructure\\migrations\\20240913012544_cuzin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97DB525B-EDA0-4A9B-B9EF-72A97DB30D1C}|ClinicalLink.Infrastructure\\ClinicalLink.Infrastructure.csproj|solutionrelative:clinicallink.infrastructure\\migrations\\20240913012544_cuzin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -397,7 +413,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 13,
           "Children": [
             {
               "$type": "Bookmark",
@@ -421,368 +437,31 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "PagamentoController.cs",
-              "DocumentMoniker": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ClinicalLink\\Controllers\\PagamentoController.cs",
-              "RelativeDocumentMoniker": "ClinicalLink\\Controllers\\PagamentoController.cs",
-              "ToolTip": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ClinicalLink\\Controllers\\PagamentoController.cs",
-              "RelativeToolTip": "ClinicalLink\\Controllers\\PagamentoController.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAgwB4AAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-11T12:36:16.222Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IPagamentoApplication.cs",
-              "DocumentMoniker": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ApplicationService\\Interface\\IPagamentoApplication.cs",
-              "RelativeDocumentMoniker": "ApplicationService\\Interface\\IPagamentoApplication.cs",
-              "ToolTip": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ApplicationService\\Interface\\IPagamentoApplication.cs",
-              "RelativeToolTip": "ApplicationService\\Interface\\IPagamentoApplication.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-11T12:35:13.227Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "PagamentoApplication.cs",
-              "DocumentMoniker": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ApplicationService\\Application\\PagamentoApplication.cs",
-              "RelativeDocumentMoniker": "ApplicationService\\Application\\PagamentoApplication.cs",
-              "ToolTip": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ApplicationService\\Application\\PagamentoApplication.cs",
-              "RelativeToolTip": "ApplicationService\\Application\\PagamentoApplication.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAqwBMAAAAzAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-11T12:34:47.745Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "PagamentoService.cs",
-              "DocumentMoniker": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\DomainService\\Services\\PagamentoService.cs",
-              "RelativeDocumentMoniker": "DomainService\\Services\\PagamentoService.cs",
-              "ToolTip": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\DomainService\\Services\\PagamentoService.cs",
-              "RelativeToolTip": "DomainService\\Services\\PagamentoService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA0AAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-11T12:21:40.709Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "IPagamentoService.cs",
-              "DocumentMoniker": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\DomainService\\Interfaces\\IPagamentoService.cs",
-              "RelativeDocumentMoniker": "DomainService\\Interfaces\\IPagamentoService.cs",
-              "ToolTip": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\DomainService\\Interfaces\\IPagamentoService.cs",
-              "RelativeToolTip": "DomainService\\Interfaces\\IPagamentoService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA6AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-11T12:21:20.559Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "PagamentoSupervisaoRepositorySql.cs",
-              "DocumentMoniker": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ClinicalLink.Infrastructure\\Repositories\\PagamentoSupervisaoRepositorySql.cs",
-              "RelativeDocumentMoniker": "ClinicalLink.Infrastructure\\Repositories\\PagamentoSupervisaoRepositorySql.cs",
-              "ToolTip": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ClinicalLink.Infrastructure\\Repositories\\PagamentoSupervisaoRepositorySql.cs",
-              "RelativeToolTip": "ClinicalLink.Infrastructure\\Repositories\\PagamentoSupervisaoRepositorySql.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAArAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-11T12:18:54.193Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "SupervisaoService.cs",
-              "DocumentMoniker": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\DomainService\\Services\\SupervisaoService.cs",
-              "RelativeDocumentMoniker": "DomainService\\Services\\SupervisaoService.cs",
-              "ToolTip": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\DomainService\\Services\\SupervisaoService.cs",
-              "RelativeToolTip": "DomainService\\Services\\SupervisaoService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAuAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-02T12:14:20.719Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "IAvaliacaoApplication.cs",
-              "DocumentMoniker": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ApplicationService\\Interface\\IAvaliacaoApplication.cs",
-              "RelativeDocumentMoniker": "ApplicationService\\Interface\\IAvaliacaoApplication.cs",
-              "ToolTip": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ApplicationService\\Interface\\IAvaliacaoApplication.cs",
-              "RelativeToolTip": "ApplicationService\\Interface\\IAvaliacaoApplication.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-31T19:39:38.089Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ConsultaController.cs",
-              "DocumentMoniker": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ClinicalLink\\Controllers\\ConsultaController.cs",
-              "RelativeDocumentMoniker": "ClinicalLink\\Controllers\\ConsultaController.cs",
-              "ToolTip": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ClinicalLink\\Controllers\\ConsultaController.cs",
-              "RelativeToolTip": "ClinicalLink\\Controllers\\ConsultaController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-01T01:36:09.873Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "IPagamentoRepository.cs",
-              "DocumentMoniker": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ClinicalLink.Infrastructure\\Interface\\IPagamentoRepository.cs",
-              "RelativeDocumentMoniker": "ClinicalLink.Infrastructure\\Interface\\IPagamentoRepository.cs",
-              "ToolTip": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ClinicalLink.Infrastructure\\Interface\\IPagamentoRepository.cs",
-              "RelativeToolTip": "ClinicalLink.Infrastructure\\Interface\\IPagamentoRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAzAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-11T12:18:15.746Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "IConsultaApplication.cs",
-              "DocumentMoniker": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ApplicationService\\Interface\\IConsultaApplication.cs",
-              "RelativeDocumentMoniker": "ApplicationService\\Interface\\IConsultaApplication.cs",
-              "ToolTip": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ApplicationService\\Interface\\IConsultaApplication.cs",
-              "RelativeToolTip": "ApplicationService\\Interface\\IConsultaApplication.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-01T01:37:49.662Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ConsultaApplication.cs",
-              "DocumentMoniker": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ApplicationService\\Application\\ConsultaApplication.cs",
-              "RelativeDocumentMoniker": "ApplicationService\\Application\\ConsultaApplication.cs",
-              "ToolTip": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ApplicationService\\Application\\ConsultaApplication.cs",
-              "RelativeToolTip": "ApplicationService\\Application\\ConsultaApplication.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-01T01:37:05.144Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "ISupervisaoRepository.cs",
-              "DocumentMoniker": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ClinicalLink.Infrastructure\\Interface\\ISupervisaoRepository.cs",
-              "RelativeDocumentMoniker": "ClinicalLink.Infrastructure\\Interface\\ISupervisaoRepository.cs",
-              "ToolTip": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ClinicalLink.Infrastructure\\Interface\\ISupervisaoRepository.cs",
-              "RelativeToolTip": "ClinicalLink.Infrastructure\\Interface\\ISupervisaoRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAuAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-02T11:42:42.743Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
               "Title": "Pagamento.cs",
               "DocumentMoniker": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\Domain\\Entidades\\Pagamento.cs",
               "RelativeDocumentMoniker": "Domain\\Entidades\\Pagamento.cs",
               "ToolTip": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\Domain\\Entidades\\Pagamento.cs",
               "RelativeToolTip": "Domain\\Entidades\\Pagamento.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAUwBMAAAAlAAAA",
+              "ViewState": "AQIAABsAAAAAAAAAAAAowBkAAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-01T09:57:00.607Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "AgendamentoApplication.cs",
-              "DocumentMoniker": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ApplicationService\\Application\\AgendamentoApplication.cs",
-              "RelativeDocumentMoniker": "ApplicationService\\Application\\AgendamentoApplication.cs",
-              "ToolTip": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ApplicationService\\Application\\AgendamentoApplication.cs",
-              "RelativeToolTip": "ApplicationService\\Application\\AgendamentoApplication.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBMAAAAwAAAA",
+              "DocumentIndex": 9,
+              "Title": "Consulta.cs",
+              "DocumentMoniker": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\Domain\\Entidades\\Consulta.cs",
+              "RelativeDocumentMoniker": "Domain\\Entidades\\Consulta.cs",
+              "ToolTip": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\Domain\\Entidades\\Consulta.cs",
+              "RelativeToolTip": "Domain\\Entidades\\Consulta.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAIwCEAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-11T12:03:02.951Z"
+              "WhenOpened": "2024-09-01T01:32:48.534Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "SqlContext.cs",
-              "DocumentMoniker": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ClinicalLink.Infrastructure\\SqlContext.cs",
-              "RelativeDocumentMoniker": "ClinicalLink.Infrastructure\\SqlContext.cs",
-              "ToolTip": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ClinicalLink.Infrastructure\\SqlContext.cs",
-              "RelativeToolTip": "ClinicalLink.Infrastructure\\SqlContext.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAA6wBwAAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-31T19:31:37.568Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Startup.cs",
-              "DocumentMoniker": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ClinicalLink\\Startup.cs",
-              "RelativeDocumentMoniker": "ClinicalLink\\Startup.cs",
-              "ToolTip": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ClinicalLink\\Startup.cs",
-              "RelativeToolTip": "ClinicalLink\\Startup.cs",
-              "ViewState": "AQIAACAAAAAAAAAAAAAiwEEAAABdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-01T01:10:31.749Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "AgendamentoController.cs",
-              "DocumentMoniker": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ClinicalLink\\Controllers\\AgendamentoController.cs",
-              "RelativeDocumentMoniker": "ClinicalLink\\Controllers\\AgendamentoController.cs",
-              "ToolTip": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ClinicalLink\\Controllers\\AgendamentoController.cs",
-              "RelativeToolTip": "ClinicalLink\\Controllers\\AgendamentoController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-11T12:04:05.309Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "ISupervisaoService.cs",
-              "DocumentMoniker": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\DomainService\\Interfaces\\ISupervisaoService.cs",
-              "RelativeDocumentMoniker": "DomainService\\Interfaces\\ISupervisaoService.cs",
-              "ToolTip": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\DomainService\\Interfaces\\ISupervisaoService.cs",
-              "RelativeToolTip": "DomainService\\Interfaces\\ISupervisaoService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAzAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-02T12:13:48.401Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "IAgendamentoApplication.cs",
-              "DocumentMoniker": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ApplicationService\\Interface\\IAgendamentoApplication.cs",
-              "RelativeDocumentMoniker": "ApplicationService\\Interface\\IAgendamentoApplication.cs",
-              "ToolTip": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ApplicationService\\Interface\\IAgendamentoApplication.cs",
-              "RelativeToolTip": "ApplicationService\\Interface\\IAgendamentoApplication.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-11T12:03:18.589Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "AgendamentoService.cs",
-              "DocumentMoniker": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\DomainService\\Services\\AgendamentoService.cs",
-              "RelativeDocumentMoniker": "DomainService\\Services\\AgendamentoService.cs",
-              "ToolTip": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\DomainService\\Services\\AgendamentoService.cs",
-              "RelativeToolTip": "DomainService\\Services\\AgendamentoService.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAA5wC8AAAA1AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-11T12:01:59.551Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "SupervisaoRepositorySql.cs",
-              "DocumentMoniker": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ClinicalLink.Infrastructure\\Repositories\\SupervisaoRepositorySql.cs",
-              "RelativeDocumentMoniker": "ClinicalLink.Infrastructure\\Repositories\\SupervisaoRepositorySql.cs",
-              "ToolTip": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ClinicalLink.Infrastructure\\Repositories\\SupervisaoRepositorySql.cs",
-              "RelativeToolTip": "ClinicalLink.Infrastructure\\Repositories\\SupervisaoRepositorySql.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAABQAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-02T12:02:36.765Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "IAgendamentoService.cs",
-              "DocumentMoniker": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\DomainService\\Interfaces\\IAgendamentoService.cs",
-              "RelativeDocumentMoniker": "DomainService\\Interfaces\\IAgendamentoService.cs",
-              "ToolTip": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\DomainService\\Interfaces\\IAgendamentoService.cs",
-              "RelativeToolTip": "DomainService\\Interfaces\\IAgendamentoService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA2AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-11T12:01:32.401Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "AgendamentoRepositorySql.cs",
-              "DocumentMoniker": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ClinicalLink.Infrastructure\\Repositories\\AgendamentoRepositorySql.cs",
-              "RelativeDocumentMoniker": "ClinicalLink.Infrastructure\\Repositories\\AgendamentoRepositorySql.cs",
-              "ToolTip": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ClinicalLink.Infrastructure\\Repositories\\AgendamentoRepositorySql.cs",
-              "RelativeToolTip": "ClinicalLink.Infrastructure\\Repositories\\AgendamentoRepositorySql.cs",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAowDQAAAAlAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-11T11:59:44.578Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "IAgendamentoRepository.cs",
-              "DocumentMoniker": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ClinicalLink.Infrastructure\\Interface\\IAgendamentoRepository.cs",
-              "RelativeDocumentMoniker": "ClinicalLink.Infrastructure\\Interface\\IAgendamentoRepository.cs",
-              "ToolTip": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ClinicalLink.Infrastructure\\Interface\\IAgendamentoRepository.cs",
-              "RelativeToolTip": "ClinicalLink.Infrastructure\\Interface\\IAgendamentoRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAAvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-11T11:47:47.622Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "AvaliacaoController.cs",
-              "DocumentMoniker": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ClinicalLink\\Controllers\\AvaliacaoController.cs",
-              "RelativeDocumentMoniker": "ClinicalLink\\Controllers\\AvaliacaoController.cs",
-              "ToolTip": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ClinicalLink\\Controllers\\AvaliacaoController.cs",
-              "RelativeToolTip": "ClinicalLink\\Controllers\\AvaliacaoController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-30T18:27:11.609Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "UsuarioService.cs",
-              "DocumentMoniker": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\DomainService\\Services\\UsuarioService.cs",
-              "RelativeDocumentMoniker": "DomainService\\Services\\UsuarioService.cs",
-              "ToolTip": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\DomainService\\Services\\UsuarioService.cs",
-              "RelativeToolTip": "DomainService\\Services\\UsuarioService.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAQwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-01T01:46:19.39Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "AvaliacaoApplication.cs",
-              "DocumentMoniker": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ApplicationService\\Application\\AvaliacaoApplication.cs",
-              "RelativeDocumentMoniker": "ApplicationService\\Application\\AvaliacaoApplication.cs",
-              "ToolTip": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ApplicationService\\Application\\AvaliacaoApplication.cs",
-              "RelativeToolTip": "ApplicationService\\Application\\AvaliacaoApplication.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-31T17:20:54.548Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "DbContextFactory.cs",
-              "DocumentMoniker": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ClinicalLink.Infrastructure\\DbContextFactory.cs",
-              "RelativeDocumentMoniker": "ClinicalLink.Infrastructure\\DbContextFactory.cs",
-              "ToolTip": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ClinicalLink.Infrastructure\\DbContextFactory.cs",
-              "RelativeToolTip": "ClinicalLink.Infrastructure\\DbContextFactory.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAABMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-10T17:42:25.463Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 43,
-              "Title": "Usuario.cs",
-              "DocumentMoniker": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\Domain\\Entidades\\Usuario.cs",
-              "RelativeDocumentMoniker": "Domain\\Entidades\\Usuario.cs",
-              "ToolTip": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\Domain\\Entidades\\Usuario.cs",
-              "RelativeToolTip": "Domain\\Entidades\\Usuario.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-30T20:48:23.862Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 8,
               "Title": "AvaliacaoService.cs",
               "DocumentMoniker": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\DomainService\\Services\\AvaliacaoService.cs",
               "RelativeDocumentMoniker": "DomainService\\Services\\AvaliacaoService.cs",
@@ -794,545 +473,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "IAvaliacaoService.cs",
-              "DocumentMoniker": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\DomainService\\Interfaces\\IAvaliacaoService.cs",
-              "RelativeDocumentMoniker": "DomainService\\Interfaces\\IAvaliacaoService.cs",
-              "ToolTip": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\DomainService\\Interfaces\\IAvaliacaoService.cs",
-              "RelativeToolTip": "DomainService\\Interfaces\\IAvaliacaoService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-31T17:39:47.345Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 42,
-              "Title": "Especialista.cs",
-              "DocumentMoniker": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\Domain\\Entidades\\Especialista.cs",
-              "RelativeDocumentMoniker": "Domain\\Entidades\\Especialista.cs",
-              "ToolTip": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\Domain\\Entidades\\Especialista.cs",
-              "RelativeToolTip": "Domain\\Entidades\\Especialista.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-01T01:30:41.453Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 36,
-              "Title": "Cidade.cs",
-              "DocumentMoniker": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\Domain\\Entidades\\Cidade.cs",
-              "RelativeDocumentMoniker": "Domain\\Entidades\\Cidade.cs",
-              "ToolTip": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\Domain\\Entidades\\Cidade.cs",
-              "RelativeToolTip": "Domain\\Entidades\\Cidade.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-01T01:30:54.364Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ClinicalLink\\Program.cs",
-              "RelativeDocumentMoniker": "ClinicalLink\\Program.cs",
-              "ToolTip": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ClinicalLink\\Program.cs",
-              "RelativeToolTip": "ClinicalLink\\Program.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAACQAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-30T18:18:55.602Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "IUsuarioRepository.cs",
-              "DocumentMoniker": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ClinicalLink.Infrastructure\\Interface\\IUsuarioRepository.cs",
-              "RelativeDocumentMoniker": "ClinicalLink.Infrastructure\\Interface\\IUsuarioRepository.cs",
-              "ToolTip": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ClinicalLink.Infrastructure\\Interface\\IUsuarioRepository.cs",
-              "RelativeToolTip": "ClinicalLink.Infrastructure\\Interface\\IUsuarioRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-31T17:49:39.647Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "IAvaliacaoRepository.cs",
-              "DocumentMoniker": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ClinicalLink.Infrastructure\\Interface\\IAvaliacaoRepository.cs",
-              "RelativeDocumentMoniker": "ClinicalLink.Infrastructure\\Interface\\IAvaliacaoRepository.cs",
-              "ToolTip": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ClinicalLink.Infrastructure\\Interface\\IAvaliacaoRepository.cs",
-              "RelativeToolTip": "ClinicalLink.Infrastructure\\Interface\\IAvaliacaoRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-31T17:45:21.244Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "Agendamento.cs",
-              "DocumentMoniker": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\Domain\\Entidades\\Agendamento.cs",
-              "RelativeDocumentMoniker": "Domain\\Entidades\\Agendamento.cs",
-              "ToolTip": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\Domain\\Entidades\\Agendamento.cs",
-              "RelativeToolTip": "Domain\\Entidades\\Agendamento.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-11T01:24:00.22Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 38,
-              "Title": "StatusConsulta.cs",
-              "DocumentMoniker": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\Domain\\Entidades\\StatusConsulta.cs",
-              "RelativeDocumentMoniker": "Domain\\Entidades\\StatusConsulta.cs",
-              "ToolTip": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\Domain\\Entidades\\StatusConsulta.cs",
-              "RelativeToolTip": "Domain\\Entidades\\StatusConsulta.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-31T20:40:56.094Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 41,
-              "Title": "IFuncionalidadeSupervisaoService.cs",
-              "DocumentMoniker": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\DomainService\\Interfaces\\IFuncionalidadeSupervisaoService.cs",
-              "RelativeDocumentMoniker": "DomainService\\Interfaces\\IFuncionalidadeSupervisaoService.cs",
-              "ToolTip": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\DomainService\\Interfaces\\IFuncionalidadeSupervisaoService.cs",
-              "RelativeToolTip": "DomainService\\Interfaces\\IFuncionalidadeSupervisaoService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-02T16:19:34.728Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "Avaliacao.cs",
-              "DocumentMoniker": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\Domain\\Entidades\\Avaliacao.cs",
-              "RelativeDocumentMoniker": "Domain\\Entidades\\Avaliacao.cs",
-              "ToolTip": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\Domain\\Entidades\\Avaliacao.cs",
-              "RelativeToolTip": "Domain\\Entidades\\Avaliacao.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAmAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-31T19:23:55.637Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 39,
-              "Title": "Universidade.cs",
-              "DocumentMoniker": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\Domain\\Entidades\\Universidade.cs",
-              "RelativeDocumentMoniker": "Domain\\Entidades\\Universidade.cs",
-              "ToolTip": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\Domain\\Entidades\\Universidade.cs",
-              "RelativeToolTip": "Domain\\Entidades\\Universidade.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-01T09:18:51.546Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 40,
-              "Title": "TipoUsuario.cs",
-              "DocumentMoniker": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\Domain\\Entidades\\TipoUsuario.cs",
-              "RelativeDocumentMoniker": "Domain\\Entidades\\TipoUsuario.cs",
-              "ToolTip": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\Domain\\Entidades\\TipoUsuario.cs",
-              "RelativeToolTip": "Domain\\Entidades\\TipoUsuario.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAADAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-31T20:40:53.266Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 37,
-              "Title": "Supervisao.cs",
-              "DocumentMoniker": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\Domain\\Entidades\\Supervisao.cs",
-              "RelativeDocumentMoniker": "Domain\\Entidades\\Supervisao.cs",
-              "ToolTip": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\Domain\\Entidades\\Supervisao.cs",
-              "RelativeToolTip": "Domain\\Entidades\\Supervisao.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-02T11:43:28.538Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 44,
-              "Title": "IFuncionalidadeSupervisaoRepository.cs",
-              "DocumentMoniker": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ClinicalLink.Infrastructure\\Interface\\IFuncionalidadeSupervisaoRepository.cs",
-              "RelativeDocumentMoniker": "ClinicalLink.Infrastructure\\Interface\\IFuncionalidadeSupervisaoRepository.cs",
-              "ToolTip": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ClinicalLink.Infrastructure\\Interface\\IFuncionalidadeSupervisaoRepository.cs",
-              "RelativeToolTip": "ClinicalLink.Infrastructure\\Interface\\IFuncionalidadeSupervisaoRepository.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAqwA4AAAA2AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-02T12:26:23.162Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 45,
-              "Title": "Application.csproj",
-              "DocumentMoniker": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ClinicalLink\\Application.csproj",
-              "RelativeDocumentMoniker": "ClinicalLink\\Application.csproj",
-              "ToolTip": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ClinicalLink\\Application.csproj",
-              "RelativeToolTip": "ClinicalLink\\Application.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-08-31T20:41:54.985Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 96,
-              "Title": "20240910190519_cuzin.cs",
-              "DocumentMoniker": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ClinicalLink.Infrastructure\\Migrations\\20240910190519_cuzin.cs",
-              "RelativeDocumentMoniker": "ClinicalLink.Infrastructure\\Migrations\\20240910190519_cuzin.cs",
-              "ToolTip": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ClinicalLink.Infrastructure\\Migrations\\20240910190519_cuzin.cs",
-              "RelativeToolTip": "ClinicalLink.Infrastructure\\Migrations\\20240910190519_cuzin.cs",
-              "ViewState": "AQIAAB8AAAAAAAAAAAAgwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-10T19:05:19.534Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 46,
-              "Title": "Microsoft.NET.Sdk.DefaultItems.Shared.targets",
-              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.Shared.targets",
-              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.Shared.targets",
-              "ViewState": "AQIAAMAAAAAAAAAAAADwv9QAAAAEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
-              "WhenOpened": "2024-09-10T18:54:06.442Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 47,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ClinicalLink\\appsettings.json",
-              "RelativeDocumentMoniker": "ClinicalLink\\appsettings.json",
-              "ToolTip": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ClinicalLink\\appsettings.json",
-              "RelativeToolTip": "ClinicalLink\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-08-30T19:38:14.338Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 49,
-              "Title": "FuncionalidadeSupervisaoRepositorySql.cs",
-              "DocumentMoniker": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ClinicalLink.Infrastructure\\Repositories\\FuncionalidadeSupervisaoRepositorySql.cs",
-              "RelativeDocumentMoniker": "ClinicalLink.Infrastructure\\Repositories\\FuncionalidadeSupervisaoRepositorySql.cs",
-              "ToolTip": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ClinicalLink.Infrastructure\\Repositories\\FuncionalidadeSupervisaoRepositorySql.cs",
-              "RelativeToolTip": "ClinicalLink.Infrastructure\\Repositories\\FuncionalidadeSupervisaoRepositorySql.cs",
-              "ViewState": "AQIAABsAAAAAAAAAAAAowBgAAAAuAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-02T12:25:20.585Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 48,
-              "Title": "Especialidade.cs",
-              "DocumentMoniker": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\Domain\\Entidades\\Especialidade.cs",
-              "RelativeDocumentMoniker": "Domain\\Entidades\\Especialidade.cs",
-              "ToolTip": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\Domain\\Entidades\\Especialidade.cs",
-              "RelativeToolTip": "Domain\\Entidades\\Especialidade.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAtAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-02T18:51:44.634Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 51,
-              "Title": "Consulta.cs",
-              "DocumentMoniker": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\Domain\\Entidades\\Consulta.cs",
-              "RelativeDocumentMoniker": "Domain\\Entidades\\Consulta.cs",
-              "ToolTip": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\Domain\\Entidades\\Consulta.cs",
-              "RelativeToolTip": "Domain\\Entidades\\Consulta.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-01T01:32:48.534Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 52,
-              "Title": "UniversidadeService.cs",
-              "DocumentMoniker": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\DomainService\\Services\\UniversidadeService.cs",
-              "RelativeDocumentMoniker": "DomainService\\Services\\UniversidadeService.cs",
-              "ToolTip": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\DomainService\\Services\\UniversidadeService.cs",
-              "RelativeToolTip": "DomainService\\Services\\UniversidadeService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-01T01:45:53.886Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 50,
-              "Title": "IUniversidadeService.cs",
-              "DocumentMoniker": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\DomainService\\Interfaces\\IUniversidadeService.cs",
-              "RelativeDocumentMoniker": "DomainService\\Interfaces\\IUniversidadeService.cs",
-              "ToolTip": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\DomainService\\Interfaces\\IUniversidadeService.cs",
-              "RelativeToolTip": "DomainService\\Interfaces\\IUniversidadeService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-01T01:45:21.41Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 53,
+              "DocumentIndex": 6,
               "Title": "FuncionalidadeSupervisaoController.cs",
               "DocumentMoniker": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ClinicalLink\\Controllers\\FuncionalidadeSupervisaoController.cs",
               "RelativeDocumentMoniker": "ClinicalLink\\Controllers\\FuncionalidadeSupervisaoController.cs",
               "ToolTip": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ClinicalLink\\Controllers\\FuncionalidadeSupervisaoController.cs",
               "RelativeToolTip": "ClinicalLink\\Controllers\\FuncionalidadeSupervisaoController.cs",
-              "ViewState": "AQIAACwAAAAAAAAAAAAwwEIAAAAcAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAEIAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-02T17:44:18.605Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 59,
-              "Title": "FuncionalidadeSupervisaoApplication.cs",
-              "DocumentMoniker": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ApplicationService\\Application\\FuncionalidadeSupervisaoApplication.cs",
-              "RelativeDocumentMoniker": "ApplicationService\\Application\\FuncionalidadeSupervisaoApplication.cs",
-              "ToolTip": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ApplicationService\\Application\\FuncionalidadeSupervisaoApplication.cs",
-              "RelativeToolTip": "ApplicationService\\Application\\FuncionalidadeSupervisaoApplication.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAIBJwCYAAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-02T16:33:00.474Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 56,
-              "Title": "EspecialidadeRepositorySql.cs",
-              "DocumentMoniker": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ClinicalLink.Infrastructure\\Repositories\\EspecialidadeRepositorySql.cs",
-              "RelativeDocumentMoniker": "ClinicalLink.Infrastructure\\Repositories\\EspecialidadeRepositorySql.cs",
-              "ToolTip": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ClinicalLink.Infrastructure\\Repositories\\EspecialidadeRepositorySql.cs",
-              "RelativeToolTip": "ClinicalLink.Infrastructure\\Repositories\\EspecialidadeRepositorySql.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-01T09:13:33.697Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 54,
-              "Title": "AuthControlller.cs",
-              "DocumentMoniker": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ClinicalLink\\Controllers\\AuthControlller.cs",
-              "RelativeDocumentMoniker": "ClinicalLink\\Controllers\\AuthControlller.cs",
-              "ToolTip": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ClinicalLink\\Controllers\\AuthControlller.cs",
-              "RelativeToolTip": "ClinicalLink\\Controllers\\AuthControlller.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-30T18:22:51.465Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 55,
-              "Title": "ConsultaRepositorySql.cs",
-              "DocumentMoniker": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ClinicalLink.Infrastructure\\Repositories\\ConsultaRepositorySql.cs",
-              "RelativeDocumentMoniker": "ClinicalLink.Infrastructure\\Repositories\\ConsultaRepositorySql.cs",
-              "ToolTip": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ClinicalLink.Infrastructure\\Repositories\\ConsultaRepositorySql.cs",
-              "RelativeToolTip": "ClinicalLink.Infrastructure\\Repositories\\ConsultaRepositorySql.cs",
-              "ViewState": "AQIAABsAAAAAAAAAAAAowCYAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-02T17:12:37.976Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 57,
-              "Title": "IConsultaRepository.cs",
-              "DocumentMoniker": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ClinicalLink.Infrastructure\\Interface\\IConsultaRepository.cs",
-              "RelativeDocumentMoniker": "ClinicalLink.Infrastructure\\Interface\\IConsultaRepository.cs",
-              "ToolTip": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ClinicalLink.Infrastructure\\Interface\\IConsultaRepository.cs",
-              "RelativeToolTip": "ClinicalLink.Infrastructure\\Interface\\IConsultaRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-31T17:49:37.116Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 60,
-              "Title": "FuncionalidadeSupervisaoService.cs",
-              "DocumentMoniker": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\DomainService\\Services\\FuncionalidadeSupervisaoService.cs",
-              "RelativeDocumentMoniker": "DomainService\\Services\\FuncionalidadeSupervisaoService.cs",
-              "ToolTip": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\DomainService\\Services\\FuncionalidadeSupervisaoService.cs",
-              "RelativeToolTip": "DomainService\\Services\\FuncionalidadeSupervisaoService.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAqwBEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-02T16:19:47.253Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 61,
-              "Title": "IFuncionalidadeSupervisaoApplication.cs",
-              "DocumentMoniker": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ApplicationService\\Interface\\IFuncionalidadeSupervisaoApplication.cs",
-              "RelativeDocumentMoniker": "ApplicationService\\Interface\\IFuncionalidadeSupervisaoApplication.cs",
-              "ToolTip": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ApplicationService\\Interface\\IFuncionalidadeSupervisaoApplication.cs",
-              "RelativeToolTip": "ApplicationService\\Interface\\IFuncionalidadeSupervisaoApplication.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-02T16:33:09.208Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 58,
-              "Title": "UsuarioController.cs",
-              "DocumentMoniker": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ClinicalLink\\Controllers\\UsuarioController.cs",
-              "RelativeDocumentMoniker": "ClinicalLink\\Controllers\\UsuarioController.cs",
-              "ToolTip": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ClinicalLink\\Controllers\\UsuarioController.cs",
-              "RelativeToolTip": "ClinicalLink\\Controllers\\UsuarioController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-31T17:20:47.588Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 62,
-              "Title": "IConsultaService.cs",
-              "DocumentMoniker": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\DomainService\\Interfaces\\IConsultaService.cs",
-              "RelativeDocumentMoniker": "DomainService\\Interfaces\\IConsultaService.cs",
-              "ToolTip": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\DomainService\\Interfaces\\IConsultaService.cs",
-              "RelativeToolTip": "DomainService\\Interfaces\\IConsultaService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-31T21:05:34.836Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 64,
-              "Title": "ConsultaService.cs",
-              "DocumentMoniker": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\DomainService\\Services\\ConsultaService.cs",
-              "RelativeDocumentMoniker": "DomainService\\Services\\ConsultaService.cs",
-              "ToolTip": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\DomainService\\Services\\ConsultaService.cs",
-              "RelativeToolTip": "DomainService\\Services\\ConsultaService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-01T01:46:14.984Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 63,
-              "Title": "IEspecialidadeService.cs",
-              "DocumentMoniker": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\DomainService\\Interfaces\\IEspecialidadeService.cs",
-              "RelativeDocumentMoniker": "DomainService\\Interfaces\\IEspecialidadeService.cs",
-              "ToolTip": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\DomainService\\Interfaces\\IEspecialidadeService.cs",
-              "RelativeToolTip": "DomainService\\Interfaces\\IEspecialidadeService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-01T09:12:59.261Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 65,
-              "Title": "EspecialistaRepositorySql.cs",
-              "DocumentMoniker": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ClinicalLink.Infrastructure\\Repositories\\EspecialistaRepositorySql.cs",
-              "RelativeDocumentMoniker": "ClinicalLink.Infrastructure\\Repositories\\EspecialistaRepositorySql.cs",
-              "ToolTip": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ClinicalLink.Infrastructure\\Repositories\\EspecialistaRepositorySql.cs",
-              "RelativeToolTip": "ClinicalLink.Infrastructure\\Repositories\\EspecialistaRepositorySql.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA8AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-01T09:00:54.771Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 66,
-              "Title": "SupervisaoController.cs",
-              "DocumentMoniker": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ClinicalLink\\Controllers\\SupervisaoController.cs",
-              "RelativeDocumentMoniker": "ClinicalLink\\Controllers\\SupervisaoController.cs",
-              "ToolTip": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ClinicalLink\\Controllers\\SupervisaoController.cs",
-              "RelativeToolTip": "ClinicalLink\\Controllers\\SupervisaoController.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAAgwBgAAAArAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-02T12:15:36.022Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 67,
-              "Title": "ISupervisaoApplication.cs",
-              "DocumentMoniker": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ApplicationService\\Interface\\ISupervisaoApplication.cs",
-              "RelativeDocumentMoniker": "ApplicationService\\Interface\\ISupervisaoApplication.cs",
-              "ToolTip": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ApplicationService\\Interface\\ISupervisaoApplication.cs",
-              "RelativeToolTip": "ApplicationService\\Interface\\ISupervisaoApplication.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-02T12:15:43.013Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 68,
-              "Title": "SupervisaoApplication.cs",
-              "DocumentMoniker": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ApplicationService\\Application\\SupervisaoApplication.cs",
-              "RelativeDocumentMoniker": "ApplicationService\\Application\\SupervisaoApplication.cs",
-              "ToolTip": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ApplicationService\\Application\\SupervisaoApplication.cs",
-              "RelativeToolTip": "ApplicationService\\Application\\SupervisaoApplication.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAA0AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-02T12:15:57.87Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 69,
-              "Title": "UniversidadeRepositorySql.cs",
-              "DocumentMoniker": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ClinicalLink.Infrastructure\\Repositories\\UniversidadeRepositorySql.cs",
-              "RelativeDocumentMoniker": "ClinicalLink.Infrastructure\\Repositories\\UniversidadeRepositorySql.cs",
-              "ToolTip": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ClinicalLink.Infrastructure\\Repositories\\UniversidadeRepositorySql.cs",
-              "RelativeToolTip": "ClinicalLink.Infrastructure\\Repositories\\UniversidadeRepositorySql.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-01T01:44:25.263Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 70,
-              "Title": "UniversidadeController.cs",
-              "DocumentMoniker": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ClinicalLink\\Controllers\\UniversidadeController.cs",
-              "RelativeDocumentMoniker": "ClinicalLink\\Controllers\\UniversidadeController.cs",
-              "ToolTip": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ClinicalLink\\Controllers\\UniversidadeController.cs",
-              "RelativeToolTip": "ClinicalLink\\Controllers\\UniversidadeController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-01T01:49:54.978Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 71,
-              "Title": "EspecialistaController.cs",
-              "DocumentMoniker": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ClinicalLink\\Controllers\\EspecialistaController.cs",
-              "RelativeDocumentMoniker": "ClinicalLink\\Controllers\\EspecialistaController.cs",
-              "ToolTip": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ClinicalLink\\Controllers\\EspecialistaController.cs",
-              "RelativeToolTip": "ClinicalLink\\Controllers\\EspecialistaController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-01T09:03:59.808Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 72,
-              "Title": "EspecialistaApplication.cs",
-              "DocumentMoniker": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ApplicationService\\Application\\EspecialistaApplication.cs",
-              "RelativeDocumentMoniker": "ApplicationService\\Application\\EspecialistaApplication.cs",
-              "ToolTip": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ApplicationService\\Application\\EspecialistaApplication.cs",
-              "RelativeToolTip": "ApplicationService\\Application\\EspecialistaApplication.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-01T09:04:18.04Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 73,
-              "Title": "IEspecialidadeApplication.cs",
-              "DocumentMoniker": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ApplicationService\\Interface\\IEspecialidadeApplication.cs",
-              "RelativeDocumentMoniker": "ApplicationService\\Interface\\IEspecialidadeApplication.cs",
-              "ToolTip": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ApplicationService\\Interface\\IEspecialidadeApplication.cs",
-              "RelativeToolTip": "ApplicationService\\Interface\\IEspecialidadeApplication.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-01T09:12:42.628Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 74,
-              "Title": "EspecialidadeApplication.cs",
-              "DocumentMoniker": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ApplicationService\\Application\\EspecialidadeApplication.cs",
-              "RelativeDocumentMoniker": "ApplicationService\\Application\\EspecialidadeApplication.cs",
-              "ToolTip": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ApplicationService\\Application\\EspecialidadeApplication.cs",
-              "RelativeToolTip": "ApplicationService\\Application\\EspecialidadeApplication.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-01T09:12:33.91Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 75,
+              "DocumentIndex": 5,
               "Title": "EspecialidadeController.cs",
               "DocumentMoniker": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ClinicalLink\\Controllers\\EspecialidadeController.cs",
               "RelativeDocumentMoniker": "ClinicalLink\\Controllers\\EspecialidadeController.cs",
@@ -1344,151 +497,129 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 76,
-              "Title": "IEspecialidadeRepository.cs",
-              "DocumentMoniker": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ClinicalLink.Infrastructure\\Interface\\IEspecialidadeRepository.cs",
-              "RelativeDocumentMoniker": "ClinicalLink.Infrastructure\\Interface\\IEspecialidadeRepository.cs",
-              "ToolTip": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ClinicalLink.Infrastructure\\Interface\\IEspecialidadeRepository.cs",
-              "RelativeToolTip": "ClinicalLink.Infrastructure\\Interface\\IEspecialidadeRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 3,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\Domain\\Entidades\\Usuario.cs",
+              "RelativeDocumentMoniker": "Domain\\Entidades\\Usuario.cs",
+              "ToolTip": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\Domain\\Entidades\\Usuario.cs",
+              "RelativeToolTip": "Domain\\Entidades\\Usuario.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACAAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-01T09:13:22.174Z"
+              "WhenOpened": "2024-08-30T20:48:23.862Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 77,
-              "Title": "EspecialidadeService.cs",
-              "DocumentMoniker": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\DomainService\\Services\\EspecialidadeService.cs",
-              "RelativeDocumentMoniker": "DomainService\\Services\\EspecialidadeService.cs",
-              "ToolTip": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\DomainService\\Services\\EspecialidadeService.cs",
-              "RelativeToolTip": "DomainService\\Services\\EspecialidadeService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 2,
+              "Title": "FuncionalidadeSupervisaoService.cs",
+              "DocumentMoniker": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\DomainService\\Services\\FuncionalidadeSupervisaoService.cs",
+              "RelativeDocumentMoniker": "DomainService\\Services\\FuncionalidadeSupervisaoService.cs",
+              "ToolTip": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\DomainService\\Services\\FuncionalidadeSupervisaoService.cs",
+              "RelativeToolTip": "DomainService\\Services\\FuncionalidadeSupervisaoService.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAQwBEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-01T09:13:08.436Z"
+              "WhenOpened": "2024-09-02T16:19:47.253Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 78,
-              "Title": "IEspecialistaRepository.cs",
-              "DocumentMoniker": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ClinicalLink.Infrastructure\\Interface\\IEspecialistaRepository.cs",
-              "RelativeDocumentMoniker": "ClinicalLink.Infrastructure\\Interface\\IEspecialistaRepository.cs",
-              "ToolTip": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ClinicalLink.Infrastructure\\Interface\\IEspecialistaRepository.cs",
-              "RelativeToolTip": "ClinicalLink.Infrastructure\\Interface\\IEspecialistaRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 1,
+              "Title": "AgendamentoService.cs",
+              "DocumentMoniker": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\DomainService\\Services\\AgendamentoService.cs",
+              "RelativeDocumentMoniker": "DomainService\\Services\\AgendamentoService.cs",
+              "ToolTip": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\DomainService\\Services\\AgendamentoService.cs",
+              "RelativeToolTip": "DomainService\\Services\\AgendamentoService.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwC8AAAA1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-01T09:02:39.29Z"
+              "WhenOpened": "2024-09-11T12:01:59.551Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 79,
-              "Title": "EspecialistaService.cs",
-              "DocumentMoniker": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\DomainService\\Services\\EspecialistaService.cs",
-              "RelativeDocumentMoniker": "DomainService\\Services\\EspecialistaService.cs",
-              "ToolTip": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\DomainService\\Services\\EspecialistaService.cs",
-              "RelativeToolTip": "DomainService\\Services\\EspecialistaService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-01T09:04:53.113Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 80,
-              "Title": "IEspecialistaService.cs",
-              "DocumentMoniker": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\DomainService\\Interfaces\\IEspecialistaService.cs",
-              "RelativeDocumentMoniker": "DomainService\\Interfaces\\IEspecialistaService.cs",
-              "ToolTip": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\DomainService\\Interfaces\\IEspecialistaService.cs",
-              "RelativeToolTip": "DomainService\\Interfaces\\IEspecialistaService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-01T09:05:08.584Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 81,
-              "Title": "IEspecialistaApplication.cs",
-              "DocumentMoniker": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ApplicationService\\Interface\\IEspecialistaApplication.cs",
-              "RelativeDocumentMoniker": "ApplicationService\\Interface\\IEspecialistaApplication.cs",
-              "ToolTip": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ApplicationService\\Interface\\IEspecialistaApplication.cs",
-              "RelativeToolTip": "ApplicationService\\Interface\\IEspecialistaApplication.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-01T09:04:36.136Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 82,
-              "Title": "ClinicalLink.Infrastructure.csproj",
-              "DocumentMoniker": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ClinicalLink.Infrastructure\\ClinicalLink.Infrastructure.csproj",
-              "RelativeDocumentMoniker": "ClinicalLink.Infrastructure\\ClinicalLink.Infrastructure.csproj",
-              "ToolTip": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ClinicalLink.Infrastructure\\ClinicalLink.Infrastructure.csproj",
-              "RelativeToolTip": "ClinicalLink.Infrastructure\\ClinicalLink.Infrastructure.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 0,
+              "Title": "Application.csproj",
+              "DocumentMoniker": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ClinicalLink\\Application.csproj",
+              "RelativeDocumentMoniker": "ClinicalLink\\Application.csproj",
+              "ToolTip": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ClinicalLink\\Application.csproj",
+              "RelativeToolTip": "ClinicalLink\\Application.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-08-31T20:56:09.275Z"
+              "WhenOpened": "2024-08-31T20:41:54.985Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 83,
-              "Title": "UniversidadeApplication.cs",
-              "DocumentMoniker": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ApplicationService\\Application\\UniversidadeApplication.cs",
-              "RelativeDocumentMoniker": "ApplicationService\\Application\\UniversidadeApplication.cs",
-              "ToolTip": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ApplicationService\\Application\\UniversidadeApplication.cs",
-              "RelativeToolTip": "ApplicationService\\Application\\UniversidadeApplication.cs",
+              "DocumentIndex": 4,
+              "Title": "Especialista.cs",
+              "DocumentMoniker": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\Domain\\Entidades\\Especialista.cs",
+              "RelativeDocumentMoniker": "Domain\\Entidades\\Especialista.cs",
+              "ToolTip": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\Domain\\Entidades\\Especialista.cs",
+              "RelativeToolTip": "Domain\\Entidades\\Especialista.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T01:30:41.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Avaliacao.cs",
+              "DocumentMoniker": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\Domain\\Entidades\\Avaliacao.cs",
+              "RelativeDocumentMoniker": "Domain\\Entidades\\Avaliacao.cs",
+              "ToolTip": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\Domain\\Entidades\\Avaliacao.cs",
+              "RelativeToolTip": "Domain\\Entidades\\Avaliacao.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T19:23:55.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Cidade.cs",
+              "DocumentMoniker": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\Domain\\Entidades\\Cidade.cs",
+              "RelativeDocumentMoniker": "Domain\\Entidades\\Cidade.cs",
+              "ToolTip": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\Domain\\Entidades\\Cidade.cs",
+              "RelativeToolTip": "Domain\\Entidades\\Cidade.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-01T01:48:45.027Z"
+              "WhenOpened": "2024-09-01T01:30:54.364Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 84,
-              "Title": "IUniversidadeApplication.cs",
-              "DocumentMoniker": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ApplicationService\\Interface\\IUniversidadeApplication.cs",
-              "RelativeDocumentMoniker": "ApplicationService\\Interface\\IUniversidadeApplication.cs",
-              "ToolTip": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ApplicationService\\Interface\\IUniversidadeApplication.cs",
-              "RelativeToolTip": "ApplicationService\\Interface\\IUniversidadeApplication.cs",
+              "DocumentIndex": 100,
+              "Title": "20240913012544_cuzin.cs",
+              "DocumentMoniker": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ClinicalLink.Infrastructure\\Migrations\\20240913012544_cuzin.cs",
+              "RelativeDocumentMoniker": "ClinicalLink.Infrastructure\\Migrations\\20240913012544_cuzin.cs",
+              "ToolTip": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ClinicalLink.Infrastructure\\Migrations\\20240913012544_cuzin.cs",
+              "RelativeToolTip": "ClinicalLink.Infrastructure\\Migrations\\20240913012544_cuzin.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-01T01:49:24.6Z"
+              "WhenOpened": "2024-09-13T01:25:44.407Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 85,
-              "Title": "IUsuarioService.cs",
-              "DocumentMoniker": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\DomainService\\Interfaces\\IUsuarioService.cs",
-              "RelativeDocumentMoniker": "DomainService\\Interfaces\\IUsuarioService.cs",
-              "ToolTip": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\DomainService\\Interfaces\\IUsuarioService.cs",
-              "RelativeToolTip": "DomainService\\Interfaces\\IUsuarioService.cs",
+              "DocumentIndex": 11,
+              "Title": "Agendamento.cs",
+              "DocumentMoniker": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\Domain\\Entidades\\Agendamento.cs",
+              "RelativeDocumentMoniker": "Domain\\Entidades\\Agendamento.cs",
+              "ToolTip": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\Domain\\Entidades\\Agendamento.cs",
+              "RelativeToolTip": "Domain\\Entidades\\Agendamento.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T01:24:00.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IAvaliacaoService.cs",
+              "DocumentMoniker": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\DomainService\\Interfaces\\IAvaliacaoService.cs",
+              "RelativeDocumentMoniker": "DomainService\\Interfaces\\IAvaliacaoService.cs",
+              "ToolTip": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\DomainService\\Interfaces\\IAvaliacaoService.cs",
+              "RelativeToolTip": "DomainService\\Interfaces\\IAvaliacaoService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-01T01:47:22.755Z"
+              "WhenOpened": "2024-08-31T17:39:47.345Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 86,
-              "Title": "IUniversidadeRepository.cs",
-              "DocumentMoniker": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ClinicalLink.Infrastructure\\Interface\\IUniversidadeRepository.cs",
-              "RelativeDocumentMoniker": "ClinicalLink.Infrastructure\\Interface\\IUniversidadeRepository.cs",
-              "ToolTip": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ClinicalLink.Infrastructure\\Interface\\IUniversidadeRepository.cs",
-              "RelativeToolTip": "ClinicalLink.Infrastructure\\Interface\\IUniversidadeRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-01T01:43:08.646Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 87,
-              "Title": "UsuarioApplication.cs",
-              "DocumentMoniker": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ApplicationService\\Application\\UsuarioApplication.cs",
-              "RelativeDocumentMoniker": "ApplicationService\\Application\\UsuarioApplication.cs",
-              "ToolTip": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ApplicationService\\Application\\UsuarioApplication.cs",
-              "RelativeToolTip": "ApplicationService\\Application\\UsuarioApplication.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-31T17:20:53.855Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 88,
+              "DocumentIndex": 14,
               "Title": "IAuthenticate.cs",
               "DocumentMoniker": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\DomainService\\Interfaces\\IAuthenticate.cs",
               "RelativeDocumentMoniker": "DomainService\\Interfaces\\IAuthenticate.cs",
@@ -1500,7 +631,943 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Supervisao.cs",
+              "DocumentMoniker": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\Domain\\Entidades\\Supervisao.cs",
+              "RelativeDocumentMoniker": "Domain\\Entidades\\Supervisao.cs",
+              "ToolTip": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\Domain\\Entidades\\Supervisao.cs",
+              "RelativeToolTip": "Domain\\Entidades\\Supervisao.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAuwCcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T11:43:28.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SupervisaoService.cs",
+              "DocumentMoniker": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\DomainService\\Services\\SupervisaoService.cs",
+              "RelativeDocumentMoniker": "DomainService\\Services\\SupervisaoService.cs",
+              "ToolTip": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\DomainService\\Services\\SupervisaoService.cs",
+              "RelativeToolTip": "DomainService\\Services\\SupervisaoService.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABoAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T12:14:20.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20240912224222_cz.cs",
+              "DocumentMoniker": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ClinicalLink.Infrastructure\\Migrations\\20240912224222_cz.cs",
+              "RelativeDocumentMoniker": "ClinicalLink.Infrastructure\\Migrations\\20240912224222_cz.cs",
+              "ToolTip": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ClinicalLink.Infrastructure\\Migrations\\20240912224222_cz.cs",
+              "RelativeToolTip": "ClinicalLink.Infrastructure\\Migrations\\20240912224222_cz.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T22:42:22.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DbContextFactory.cs",
+              "DocumentMoniker": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ClinicalLink.Infrastructure\\DbContextFactory.cs",
+              "RelativeDocumentMoniker": "ClinicalLink.Infrastructure\\DbContextFactory.cs",
+              "ToolTip": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ClinicalLink.Infrastructure\\DbContextFactory.cs",
+              "RelativeToolTip": "ClinicalLink.Infrastructure\\DbContextFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T17:42:25.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20240912221117_cuzin.cs",
+              "DocumentMoniker": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ClinicalLink.Infrastructure\\Migrations\\20240912221117_cuzin.cs",
+              "RelativeDocumentMoniker": "ClinicalLink.Infrastructure\\Migrations\\20240912221117_cuzin.cs",
+              "ToolTip": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ClinicalLink.Infrastructure\\Migrations\\20240912221117_cuzin.cs",
+              "RelativeToolTip": "ClinicalLink.Infrastructure\\Migrations\\20240912221117_cuzin.cs",
+              "ViewState": "AQIAAKAAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T22:11:18.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "UniversidadeRepositorySql.cs",
+              "DocumentMoniker": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ClinicalLink.Infrastructure\\Repositories\\UniversidadeRepositorySql.cs",
+              "RelativeDocumentMoniker": "ClinicalLink.Infrastructure\\Repositories\\UniversidadeRepositorySql.cs",
+              "ToolTip": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ClinicalLink.Infrastructure\\Repositories\\UniversidadeRepositorySql.cs",
+              "RelativeToolTip": "ClinicalLink.Infrastructure\\Repositories\\UniversidadeRepositorySql.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T01:44:25.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ClinicalLink\\Startup.cs",
+              "RelativeDocumentMoniker": "ClinicalLink\\Startup.cs",
+              "ToolTip": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ClinicalLink\\Startup.cs",
+              "RelativeToolTip": "ClinicalLink\\Startup.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAiwC0AAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T01:10:31.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "PagamentoSupervisaoRepositorySql.cs",
+              "DocumentMoniker": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ClinicalLink.Infrastructure\\Repositories\\PagamentoSupervisaoRepositorySql.cs",
+              "RelativeDocumentMoniker": "ClinicalLink.Infrastructure\\Repositories\\PagamentoSupervisaoRepositorySql.cs",
+              "ToolTip": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ClinicalLink.Infrastructure\\Repositories\\PagamentoSupervisaoRepositorySql.cs",
+              "RelativeToolTip": "ClinicalLink.Infrastructure\\Repositories\\PagamentoSupervisaoRepositorySql.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAAACcAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T12:18:54.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "SqlContext.cs",
+              "DocumentMoniker": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ClinicalLink.Infrastructure\\SqlContext.cs",
+              "RelativeDocumentMoniker": "ClinicalLink.Infrastructure\\SqlContext.cs",
+              "ToolTip": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ClinicalLink.Infrastructure\\SqlContext.cs",
+              "RelativeToolTip": "ClinicalLink.Infrastructure\\SqlContext.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwBwAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T19:31:37.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ConsultaController.cs",
+              "DocumentMoniker": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ClinicalLink\\Controllers\\ConsultaController.cs",
+              "RelativeDocumentMoniker": "ClinicalLink\\Controllers\\ConsultaController.cs",
+              "ToolTip": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ClinicalLink\\Controllers\\ConsultaController.cs",
+              "RelativeToolTip": "ClinicalLink\\Controllers\\ConsultaController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T01:36:09.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UsuarioRepositorySql.cs",
+              "DocumentMoniker": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ClinicalLink.Infrastructure\\Repositories\\UsuarioRepositorySql.cs",
+              "RelativeDocumentMoniker": "ClinicalLink.Infrastructure\\Repositories\\UsuarioRepositorySql.cs",
+              "ToolTip": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ClinicalLink.Infrastructure\\Repositories\\UsuarioRepositorySql.cs",
+              "RelativeToolTip": "ClinicalLink.Infrastructure\\Repositories\\UsuarioRepositorySql.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T17:17:22.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "FuncionalidadeSupervisaoApplication.cs",
+              "DocumentMoniker": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ApplicationService\\Application\\FuncionalidadeSupervisaoApplication.cs",
+              "RelativeDocumentMoniker": "ApplicationService\\Application\\FuncionalidadeSupervisaoApplication.cs",
+              "ToolTip": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ApplicationService\\Application\\FuncionalidadeSupervisaoApplication.cs",
+              "RelativeToolTip": "ApplicationService\\Application\\FuncionalidadeSupervisaoApplication.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAACYAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T16:33:00.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IFuncionalidadeSupervisaoApplication.cs",
+              "DocumentMoniker": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ApplicationService\\Interface\\IFuncionalidadeSupervisaoApplication.cs",
+              "RelativeDocumentMoniker": "ApplicationService\\Interface\\IFuncionalidadeSupervisaoApplication.cs",
+              "ToolTip": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ApplicationService\\Interface\\IFuncionalidadeSupervisaoApplication.cs",
+              "RelativeToolTip": "ApplicationService\\Interface\\IFuncionalidadeSupervisaoApplication.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T16:33:09.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ApplicationService.csproj",
+              "DocumentMoniker": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ApplicationService\\ApplicationService.csproj",
+              "RelativeDocumentMoniker": "ApplicationService\\ApplicationService.csproj",
+              "ToolTip": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ApplicationService\\ApplicationService.csproj",
+              "RelativeToolTip": "ApplicationService\\ApplicationService.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-12T22:03:21.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ClinicalLink\\Program.cs",
+              "RelativeDocumentMoniker": "ClinicalLink\\Program.cs",
+              "ToolTip": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ClinicalLink\\Program.cs",
+              "RelativeToolTip": "ClinicalLink\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAASwB4AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T18:18:55.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IFuncionalidadeSupervisaoService.cs",
+              "DocumentMoniker": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\DomainService\\Interfaces\\IFuncionalidadeSupervisaoService.cs",
+              "RelativeDocumentMoniker": "DomainService\\Interfaces\\IFuncionalidadeSupervisaoService.cs",
+              "ToolTip": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\DomainService\\Interfaces\\IFuncionalidadeSupervisaoService.cs",
+              "RelativeToolTip": "DomainService\\Interfaces\\IFuncionalidadeSupervisaoService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T16:19:34.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "IFuncionalidadeSupervisaoRepository.cs",
+              "DocumentMoniker": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ClinicalLink.Infrastructure\\Interface\\IFuncionalidadeSupervisaoRepository.cs",
+              "RelativeDocumentMoniker": "ClinicalLink.Infrastructure\\Interface\\IFuncionalidadeSupervisaoRepository.cs",
+              "ToolTip": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ClinicalLink.Infrastructure\\Interface\\IFuncionalidadeSupervisaoRepository.cs",
+              "RelativeToolTip": "ClinicalLink.Infrastructure\\Interface\\IFuncionalidadeSupervisaoRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAqwA4AAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T12:26:23.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "FuncionalidadeSupervisaoRepositorySql.cs",
+              "DocumentMoniker": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ClinicalLink.Infrastructure\\Repositories\\FuncionalidadeSupervisaoRepositorySql.cs",
+              "RelativeDocumentMoniker": "ClinicalLink.Infrastructure\\Repositories\\FuncionalidadeSupervisaoRepositorySql.cs",
+              "ToolTip": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ClinicalLink.Infrastructure\\Repositories\\FuncionalidadeSupervisaoRepositorySql.cs",
+              "RelativeToolTip": "ClinicalLink.Infrastructure\\Repositories\\FuncionalidadeSupervisaoRepositorySql.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T12:25:20.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ISupervisaoRepository.cs",
+              "DocumentMoniker": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ClinicalLink.Infrastructure\\Interface\\ISupervisaoRepository.cs",
+              "RelativeDocumentMoniker": "ClinicalLink.Infrastructure\\Interface\\ISupervisaoRepository.cs",
+              "ToolTip": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ClinicalLink.Infrastructure\\Interface\\ISupervisaoRepository.cs",
+              "RelativeToolTip": "ClinicalLink.Infrastructure\\Interface\\ISupervisaoRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T11:42:42.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "IAvaliacaoApplication.cs",
+              "DocumentMoniker": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ApplicationService\\Interface\\IAvaliacaoApplication.cs",
+              "RelativeDocumentMoniker": "ApplicationService\\Interface\\IAvaliacaoApplication.cs",
+              "ToolTip": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ApplicationService\\Interface\\IAvaliacaoApplication.cs",
+              "RelativeToolTip": "ApplicationService\\Interface\\IAvaliacaoApplication.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T19:39:38.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "IPagamentoService.cs",
+              "DocumentMoniker": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\DomainService\\Interfaces\\IPagamentoService.cs",
+              "RelativeDocumentMoniker": "DomainService\\Interfaces\\IPagamentoService.cs",
+              "ToolTip": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\DomainService\\Interfaces\\IPagamentoService.cs",
+              "RelativeToolTip": "DomainService\\Interfaces\\IPagamentoService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T12:21:20.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "PagamentoService.cs",
+              "DocumentMoniker": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\DomainService\\Services\\PagamentoService.cs",
+              "RelativeDocumentMoniker": "DomainService\\Services\\PagamentoService.cs",
+              "ToolTip": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\DomainService\\Services\\PagamentoService.cs",
+              "RelativeToolTip": "DomainService\\Services\\PagamentoService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA0AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T12:21:40.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "PagamentoApplication.cs",
+              "DocumentMoniker": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ApplicationService\\Application\\PagamentoApplication.cs",
+              "RelativeDocumentMoniker": "ApplicationService\\Application\\PagamentoApplication.cs",
+              "ToolTip": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ApplicationService\\Application\\PagamentoApplication.cs",
+              "RelativeToolTip": "ApplicationService\\Application\\PagamentoApplication.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAqwBMAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T12:34:47.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "IPagamentoApplication.cs",
+              "DocumentMoniker": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ApplicationService\\Interface\\IPagamentoApplication.cs",
+              "RelativeDocumentMoniker": "ApplicationService\\Interface\\IPagamentoApplication.cs",
+              "ToolTip": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ApplicationService\\Interface\\IPagamentoApplication.cs",
+              "RelativeToolTip": "ApplicationService\\Interface\\IPagamentoApplication.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T12:35:13.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "PagamentoController.cs",
+              "DocumentMoniker": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ClinicalLink\\Controllers\\PagamentoController.cs",
+              "RelativeDocumentMoniker": "ClinicalLink\\Controllers\\PagamentoController.cs",
+              "ToolTip": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ClinicalLink\\Controllers\\PagamentoController.cs",
+              "RelativeToolTip": "ClinicalLink\\Controllers\\PagamentoController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwB4AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T12:36:16.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "IPagamentoRepository.cs",
+              "DocumentMoniker": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ClinicalLink.Infrastructure\\Interface\\IPagamentoRepository.cs",
+              "RelativeDocumentMoniker": "ClinicalLink.Infrastructure\\Interface\\IPagamentoRepository.cs",
+              "ToolTip": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ClinicalLink.Infrastructure\\Interface\\IPagamentoRepository.cs",
+              "RelativeToolTip": "ClinicalLink.Infrastructure\\Interface\\IPagamentoRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T12:18:15.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "IConsultaApplication.cs",
+              "DocumentMoniker": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ApplicationService\\Interface\\IConsultaApplication.cs",
+              "RelativeDocumentMoniker": "ApplicationService\\Interface\\IConsultaApplication.cs",
+              "ToolTip": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ApplicationService\\Interface\\IConsultaApplication.cs",
+              "RelativeToolTip": "ApplicationService\\Interface\\IConsultaApplication.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T01:37:49.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ConsultaApplication.cs",
+              "DocumentMoniker": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ApplicationService\\Application\\ConsultaApplication.cs",
+              "RelativeDocumentMoniker": "ApplicationService\\Application\\ConsultaApplication.cs",
+              "ToolTip": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ApplicationService\\Application\\ConsultaApplication.cs",
+              "RelativeToolTip": "ApplicationService\\Application\\ConsultaApplication.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T01:37:05.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "AgendamentoApplication.cs",
+              "DocumentMoniker": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ApplicationService\\Application\\AgendamentoApplication.cs",
+              "RelativeDocumentMoniker": "ApplicationService\\Application\\AgendamentoApplication.cs",
+              "ToolTip": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ApplicationService\\Application\\AgendamentoApplication.cs",
+              "RelativeToolTip": "ApplicationService\\Application\\AgendamentoApplication.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBMAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T12:03:02.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "AgendamentoController.cs",
+              "DocumentMoniker": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ClinicalLink\\Controllers\\AgendamentoController.cs",
+              "RelativeDocumentMoniker": "ClinicalLink\\Controllers\\AgendamentoController.cs",
+              "ToolTip": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ClinicalLink\\Controllers\\AgendamentoController.cs",
+              "RelativeToolTip": "ClinicalLink\\Controllers\\AgendamentoController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T12:04:05.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "ISupervisaoService.cs",
+              "DocumentMoniker": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\DomainService\\Interfaces\\ISupervisaoService.cs",
+              "RelativeDocumentMoniker": "DomainService\\Interfaces\\ISupervisaoService.cs",
+              "ToolTip": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\DomainService\\Interfaces\\ISupervisaoService.cs",
+              "RelativeToolTip": "DomainService\\Interfaces\\ISupervisaoService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T12:13:48.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "IAgendamentoApplication.cs",
+              "DocumentMoniker": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ApplicationService\\Interface\\IAgendamentoApplication.cs",
+              "RelativeDocumentMoniker": "ApplicationService\\Interface\\IAgendamentoApplication.cs",
+              "ToolTip": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ApplicationService\\Interface\\IAgendamentoApplication.cs",
+              "RelativeToolTip": "ApplicationService\\Interface\\IAgendamentoApplication.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T12:03:18.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "SupervisaoRepositorySql.cs",
+              "DocumentMoniker": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ClinicalLink.Infrastructure\\Repositories\\SupervisaoRepositorySql.cs",
+              "RelativeDocumentMoniker": "ClinicalLink.Infrastructure\\Repositories\\SupervisaoRepositorySql.cs",
+              "ToolTip": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ClinicalLink.Infrastructure\\Repositories\\SupervisaoRepositorySql.cs",
+              "RelativeToolTip": "ClinicalLink.Infrastructure\\Repositories\\SupervisaoRepositorySql.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAIBJwBQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T12:02:36.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "IAgendamentoService.cs",
+              "DocumentMoniker": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\DomainService\\Interfaces\\IAgendamentoService.cs",
+              "RelativeDocumentMoniker": "DomainService\\Interfaces\\IAgendamentoService.cs",
+              "ToolTip": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\DomainService\\Interfaces\\IAgendamentoService.cs",
+              "RelativeToolTip": "DomainService\\Interfaces\\IAgendamentoService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T12:01:32.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "AgendamentoRepositorySql.cs",
+              "DocumentMoniker": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ClinicalLink.Infrastructure\\Repositories\\AgendamentoRepositorySql.cs",
+              "RelativeDocumentMoniker": "ClinicalLink.Infrastructure\\Repositories\\AgendamentoRepositorySql.cs",
+              "ToolTip": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ClinicalLink.Infrastructure\\Repositories\\AgendamentoRepositorySql.cs",
+              "RelativeToolTip": "ClinicalLink.Infrastructure\\Repositories\\AgendamentoRepositorySql.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAowDQAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T11:59:44.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "IAgendamentoRepository.cs",
+              "DocumentMoniker": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ClinicalLink.Infrastructure\\Interface\\IAgendamentoRepository.cs",
+              "RelativeDocumentMoniker": "ClinicalLink.Infrastructure\\Interface\\IAgendamentoRepository.cs",
+              "ToolTip": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ClinicalLink.Infrastructure\\Interface\\IAgendamentoRepository.cs",
+              "RelativeToolTip": "ClinicalLink.Infrastructure\\Interface\\IAgendamentoRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T11:47:47.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "AvaliacaoController.cs",
+              "DocumentMoniker": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ClinicalLink\\Controllers\\AvaliacaoController.cs",
+              "RelativeDocumentMoniker": "ClinicalLink\\Controllers\\AvaliacaoController.cs",
+              "ToolTip": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ClinicalLink\\Controllers\\AvaliacaoController.cs",
+              "RelativeToolTip": "ClinicalLink\\Controllers\\AvaliacaoController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T18:27:11.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "UsuarioService.cs",
+              "DocumentMoniker": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\DomainService\\Services\\UsuarioService.cs",
+              "RelativeDocumentMoniker": "DomainService\\Services\\UsuarioService.cs",
+              "ToolTip": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\DomainService\\Services\\UsuarioService.cs",
+              "RelativeToolTip": "DomainService\\Services\\UsuarioService.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T01:46:19.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "AvaliacaoApplication.cs",
+              "DocumentMoniker": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ApplicationService\\Application\\AvaliacaoApplication.cs",
+              "RelativeDocumentMoniker": "ApplicationService\\Application\\AvaliacaoApplication.cs",
+              "ToolTip": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ApplicationService\\Application\\AvaliacaoApplication.cs",
+              "RelativeToolTip": "ApplicationService\\Application\\AvaliacaoApplication.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T17:20:54.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "IUsuarioRepository.cs",
+              "DocumentMoniker": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ClinicalLink.Infrastructure\\Interface\\IUsuarioRepository.cs",
+              "RelativeDocumentMoniker": "ClinicalLink.Infrastructure\\Interface\\IUsuarioRepository.cs",
+              "ToolTip": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ClinicalLink.Infrastructure\\Interface\\IUsuarioRepository.cs",
+              "RelativeToolTip": "ClinicalLink.Infrastructure\\Interface\\IUsuarioRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T17:49:39.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "IAvaliacaoRepository.cs",
+              "DocumentMoniker": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ClinicalLink.Infrastructure\\Interface\\IAvaliacaoRepository.cs",
+              "RelativeDocumentMoniker": "ClinicalLink.Infrastructure\\Interface\\IAvaliacaoRepository.cs",
+              "ToolTip": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ClinicalLink.Infrastructure\\Interface\\IAvaliacaoRepository.cs",
+              "RelativeToolTip": "ClinicalLink.Infrastructure\\Interface\\IAvaliacaoRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T17:45:21.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "StatusConsulta.cs",
+              "DocumentMoniker": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\Domain\\Entidades\\StatusConsulta.cs",
+              "RelativeDocumentMoniker": "Domain\\Entidades\\StatusConsulta.cs",
+              "ToolTip": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\Domain\\Entidades\\StatusConsulta.cs",
+              "RelativeToolTip": "Domain\\Entidades\\StatusConsulta.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T20:40:56.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "Universidade.cs",
+              "DocumentMoniker": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\Domain\\Entidades\\Universidade.cs",
+              "RelativeDocumentMoniker": "Domain\\Entidades\\Universidade.cs",
+              "ToolTip": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\Domain\\Entidades\\Universidade.cs",
+              "RelativeToolTip": "Domain\\Entidades\\Universidade.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T09:18:51.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "TipoUsuario.cs",
+              "DocumentMoniker": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\Domain\\Entidades\\TipoUsuario.cs",
+              "RelativeDocumentMoniker": "Domain\\Entidades\\TipoUsuario.cs",
+              "ToolTip": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\Domain\\Entidades\\TipoUsuario.cs",
+              "RelativeToolTip": "Domain\\Entidades\\TipoUsuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T20:40:53.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "Microsoft.NET.Sdk.DefaultItems.Shared.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.Shared.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.Shared.targets",
+              "ViewState": "AQIAAMAAAAAAAAAAAADwv9QAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-09-10T18:54:06.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ClinicalLink\\appsettings.json",
+              "RelativeDocumentMoniker": "ClinicalLink\\appsettings.json",
+              "ToolTip": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ClinicalLink\\appsettings.json",
+              "RelativeToolTip": "ClinicalLink\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-30T19:38:14.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "Especialidade.cs",
+              "DocumentMoniker": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\Domain\\Entidades\\Especialidade.cs",
+              "RelativeDocumentMoniker": "Domain\\Entidades\\Especialidade.cs",
+              "ToolTip": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\Domain\\Entidades\\Especialidade.cs",
+              "RelativeToolTip": "Domain\\Entidades\\Especialidade.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T18:51:44.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "UniversidadeService.cs",
+              "DocumentMoniker": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\DomainService\\Services\\UniversidadeService.cs",
+              "RelativeDocumentMoniker": "DomainService\\Services\\UniversidadeService.cs",
+              "ToolTip": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\DomainService\\Services\\UniversidadeService.cs",
+              "RelativeToolTip": "DomainService\\Services\\UniversidadeService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T01:45:53.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "IUniversidadeService.cs",
+              "DocumentMoniker": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\DomainService\\Interfaces\\IUniversidadeService.cs",
+              "RelativeDocumentMoniker": "DomainService\\Interfaces\\IUniversidadeService.cs",
+              "ToolTip": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\DomainService\\Interfaces\\IUniversidadeService.cs",
+              "RelativeToolTip": "DomainService\\Interfaces\\IUniversidadeService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T01:45:21.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "EspecialidadeRepositorySql.cs",
+              "DocumentMoniker": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ClinicalLink.Infrastructure\\Repositories\\EspecialidadeRepositorySql.cs",
+              "RelativeDocumentMoniker": "ClinicalLink.Infrastructure\\Repositories\\EspecialidadeRepositorySql.cs",
+              "ToolTip": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ClinicalLink.Infrastructure\\Repositories\\EspecialidadeRepositorySql.cs",
+              "RelativeToolTip": "ClinicalLink.Infrastructure\\Repositories\\EspecialidadeRepositorySql.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T09:13:33.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "AuthControlller.cs",
+              "DocumentMoniker": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ClinicalLink\\Controllers\\AuthControlller.cs",
+              "RelativeDocumentMoniker": "ClinicalLink\\Controllers\\AuthControlller.cs",
+              "ToolTip": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ClinicalLink\\Controllers\\AuthControlller.cs",
+              "RelativeToolTip": "ClinicalLink\\Controllers\\AuthControlller.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T18:22:51.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "ConsultaRepositorySql.cs",
+              "DocumentMoniker": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ClinicalLink.Infrastructure\\Repositories\\ConsultaRepositorySql.cs",
+              "RelativeDocumentMoniker": "ClinicalLink.Infrastructure\\Repositories\\ConsultaRepositorySql.cs",
+              "ToolTip": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ClinicalLink.Infrastructure\\Repositories\\ConsultaRepositorySql.cs",
+              "RelativeToolTip": "ClinicalLink.Infrastructure\\Repositories\\ConsultaRepositorySql.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAowCYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T17:12:37.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "IConsultaRepository.cs",
+              "DocumentMoniker": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ClinicalLink.Infrastructure\\Interface\\IConsultaRepository.cs",
+              "RelativeDocumentMoniker": "ClinicalLink.Infrastructure\\Interface\\IConsultaRepository.cs",
+              "ToolTip": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ClinicalLink.Infrastructure\\Interface\\IConsultaRepository.cs",
+              "RelativeToolTip": "ClinicalLink.Infrastructure\\Interface\\IConsultaRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T17:49:37.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ClinicalLink\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "ClinicalLink\\Controllers\\UsuarioController.cs",
+              "ToolTip": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ClinicalLink\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "ClinicalLink\\Controllers\\UsuarioController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T17:20:47.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "IConsultaService.cs",
+              "DocumentMoniker": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\DomainService\\Interfaces\\IConsultaService.cs",
+              "RelativeDocumentMoniker": "DomainService\\Interfaces\\IConsultaService.cs",
+              "ToolTip": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\DomainService\\Interfaces\\IConsultaService.cs",
+              "RelativeToolTip": "DomainService\\Interfaces\\IConsultaService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T21:05:34.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "ConsultaService.cs",
+              "DocumentMoniker": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\DomainService\\Services\\ConsultaService.cs",
+              "RelativeDocumentMoniker": "DomainService\\Services\\ConsultaService.cs",
+              "ToolTip": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\DomainService\\Services\\ConsultaService.cs",
+              "RelativeToolTip": "DomainService\\Services\\ConsultaService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T01:46:14.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "IEspecialidadeService.cs",
+              "DocumentMoniker": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\DomainService\\Interfaces\\IEspecialidadeService.cs",
+              "RelativeDocumentMoniker": "DomainService\\Interfaces\\IEspecialidadeService.cs",
+              "ToolTip": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\DomainService\\Interfaces\\IEspecialidadeService.cs",
+              "RelativeToolTip": "DomainService\\Interfaces\\IEspecialidadeService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T09:12:59.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "EspecialistaRepositorySql.cs",
+              "DocumentMoniker": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ClinicalLink.Infrastructure\\Repositories\\EspecialistaRepositorySql.cs",
+              "RelativeDocumentMoniker": "ClinicalLink.Infrastructure\\Repositories\\EspecialistaRepositorySql.cs",
+              "ToolTip": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ClinicalLink.Infrastructure\\Repositories\\EspecialistaRepositorySql.cs",
+              "RelativeToolTip": "ClinicalLink.Infrastructure\\Repositories\\EspecialistaRepositorySql.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T09:00:54.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "SupervisaoController.cs",
+              "DocumentMoniker": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ClinicalLink\\Controllers\\SupervisaoController.cs",
+              "RelativeDocumentMoniker": "ClinicalLink\\Controllers\\SupervisaoController.cs",
+              "ToolTip": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ClinicalLink\\Controllers\\SupervisaoController.cs",
+              "RelativeToolTip": "ClinicalLink\\Controllers\\SupervisaoController.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwBgAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T12:15:36.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "ISupervisaoApplication.cs",
+              "DocumentMoniker": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ApplicationService\\Interface\\ISupervisaoApplication.cs",
+              "RelativeDocumentMoniker": "ApplicationService\\Interface\\ISupervisaoApplication.cs",
+              "ToolTip": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ApplicationService\\Interface\\ISupervisaoApplication.cs",
+              "RelativeToolTip": "ApplicationService\\Interface\\ISupervisaoApplication.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T12:15:43.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "SupervisaoApplication.cs",
+              "DocumentMoniker": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ApplicationService\\Application\\SupervisaoApplication.cs",
+              "RelativeDocumentMoniker": "ApplicationService\\Application\\SupervisaoApplication.cs",
+              "ToolTip": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ApplicationService\\Application\\SupervisaoApplication.cs",
+              "RelativeToolTip": "ApplicationService\\Application\\SupervisaoApplication.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T12:15:57.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "UniversidadeController.cs",
+              "DocumentMoniker": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ClinicalLink\\Controllers\\UniversidadeController.cs",
+              "RelativeDocumentMoniker": "ClinicalLink\\Controllers\\UniversidadeController.cs",
+              "ToolTip": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ClinicalLink\\Controllers\\UniversidadeController.cs",
+              "RelativeToolTip": "ClinicalLink\\Controllers\\UniversidadeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T01:49:54.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "EspecialistaController.cs",
+              "DocumentMoniker": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ClinicalLink\\Controllers\\EspecialistaController.cs",
+              "RelativeDocumentMoniker": "ClinicalLink\\Controllers\\EspecialistaController.cs",
+              "ToolTip": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ClinicalLink\\Controllers\\EspecialistaController.cs",
+              "RelativeToolTip": "ClinicalLink\\Controllers\\EspecialistaController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T09:03:59.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "EspecialistaApplication.cs",
+              "DocumentMoniker": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ApplicationService\\Application\\EspecialistaApplication.cs",
+              "RelativeDocumentMoniker": "ApplicationService\\Application\\EspecialistaApplication.cs",
+              "ToolTip": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ApplicationService\\Application\\EspecialistaApplication.cs",
+              "RelativeToolTip": "ApplicationService\\Application\\EspecialistaApplication.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T09:04:18.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "IEspecialidadeApplication.cs",
+              "DocumentMoniker": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ApplicationService\\Interface\\IEspecialidadeApplication.cs",
+              "RelativeDocumentMoniker": "ApplicationService\\Interface\\IEspecialidadeApplication.cs",
+              "ToolTip": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ApplicationService\\Interface\\IEspecialidadeApplication.cs",
+              "RelativeToolTip": "ApplicationService\\Interface\\IEspecialidadeApplication.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T09:12:42.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "EspecialidadeApplication.cs",
+              "DocumentMoniker": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ApplicationService\\Application\\EspecialidadeApplication.cs",
+              "RelativeDocumentMoniker": "ApplicationService\\Application\\EspecialidadeApplication.cs",
+              "ToolTip": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ApplicationService\\Application\\EspecialidadeApplication.cs",
+              "RelativeToolTip": "ApplicationService\\Application\\EspecialidadeApplication.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T09:12:33.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "IEspecialidadeRepository.cs",
+              "DocumentMoniker": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ClinicalLink.Infrastructure\\Interface\\IEspecialidadeRepository.cs",
+              "RelativeDocumentMoniker": "ClinicalLink.Infrastructure\\Interface\\IEspecialidadeRepository.cs",
+              "ToolTip": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ClinicalLink.Infrastructure\\Interface\\IEspecialidadeRepository.cs",
+              "RelativeToolTip": "ClinicalLink.Infrastructure\\Interface\\IEspecialidadeRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T09:13:22.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "EspecialidadeService.cs",
+              "DocumentMoniker": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\DomainService\\Services\\EspecialidadeService.cs",
+              "RelativeDocumentMoniker": "DomainService\\Services\\EspecialidadeService.cs",
+              "ToolTip": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\DomainService\\Services\\EspecialidadeService.cs",
+              "RelativeToolTip": "DomainService\\Services\\EspecialidadeService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T09:13:08.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "IEspecialistaRepository.cs",
+              "DocumentMoniker": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ClinicalLink.Infrastructure\\Interface\\IEspecialistaRepository.cs",
+              "RelativeDocumentMoniker": "ClinicalLink.Infrastructure\\Interface\\IEspecialistaRepository.cs",
+              "ToolTip": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ClinicalLink.Infrastructure\\Interface\\IEspecialistaRepository.cs",
+              "RelativeToolTip": "ClinicalLink.Infrastructure\\Interface\\IEspecialistaRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T09:02:39.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "EspecialistaService.cs",
+              "DocumentMoniker": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\DomainService\\Services\\EspecialistaService.cs",
+              "RelativeDocumentMoniker": "DomainService\\Services\\EspecialistaService.cs",
+              "ToolTip": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\DomainService\\Services\\EspecialistaService.cs",
+              "RelativeToolTip": "DomainService\\Services\\EspecialistaService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T09:04:53.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "IEspecialistaService.cs",
+              "DocumentMoniker": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\DomainService\\Interfaces\\IEspecialistaService.cs",
+              "RelativeDocumentMoniker": "DomainService\\Interfaces\\IEspecialistaService.cs",
+              "ToolTip": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\DomainService\\Interfaces\\IEspecialistaService.cs",
+              "RelativeToolTip": "DomainService\\Interfaces\\IEspecialistaService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T09:05:08.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "IEspecialistaApplication.cs",
+              "DocumentMoniker": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ApplicationService\\Interface\\IEspecialistaApplication.cs",
+              "RelativeDocumentMoniker": "ApplicationService\\Interface\\IEspecialistaApplication.cs",
+              "ToolTip": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ApplicationService\\Interface\\IEspecialistaApplication.cs",
+              "RelativeToolTip": "ApplicationService\\Interface\\IEspecialistaApplication.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T09:04:36.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "ClinicalLink.Infrastructure.csproj",
+              "DocumentMoniker": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ClinicalLink.Infrastructure\\ClinicalLink.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "ClinicalLink.Infrastructure\\ClinicalLink.Infrastructure.csproj",
+              "ToolTip": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ClinicalLink.Infrastructure\\ClinicalLink.Infrastructure.csproj",
+              "RelativeToolTip": "ClinicalLink.Infrastructure\\ClinicalLink.Infrastructure.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-31T20:56:09.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "UniversidadeApplication.cs",
+              "DocumentMoniker": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ApplicationService\\Application\\UniversidadeApplication.cs",
+              "RelativeDocumentMoniker": "ApplicationService\\Application\\UniversidadeApplication.cs",
+              "ToolTip": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ApplicationService\\Application\\UniversidadeApplication.cs",
+              "RelativeToolTip": "ApplicationService\\Application\\UniversidadeApplication.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T01:48:45.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "IUniversidadeApplication.cs",
+              "DocumentMoniker": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ApplicationService\\Interface\\IUniversidadeApplication.cs",
+              "RelativeDocumentMoniker": "ApplicationService\\Interface\\IUniversidadeApplication.cs",
+              "ToolTip": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ApplicationService\\Interface\\IUniversidadeApplication.cs",
+              "RelativeToolTip": "ApplicationService\\Interface\\IUniversidadeApplication.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T01:49:24.6Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 90,
+              "Title": "IUsuarioService.cs",
+              "DocumentMoniker": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\DomainService\\Interfaces\\IUsuarioService.cs",
+              "RelativeDocumentMoniker": "DomainService\\Interfaces\\IUsuarioService.cs",
+              "ToolTip": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\DomainService\\Interfaces\\IUsuarioService.cs",
+              "RelativeToolTip": "DomainService\\Interfaces\\IUsuarioService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T01:47:22.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "IUniversidadeRepository.cs",
+              "DocumentMoniker": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ClinicalLink.Infrastructure\\Interface\\IUniversidadeRepository.cs",
+              "RelativeDocumentMoniker": "ClinicalLink.Infrastructure\\Interface\\IUniversidadeRepository.cs",
+              "ToolTip": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ClinicalLink.Infrastructure\\Interface\\IUniversidadeRepository.cs",
+              "RelativeToolTip": "ClinicalLink.Infrastructure\\Interface\\IUniversidadeRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T01:43:08.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 92,
+              "Title": "UsuarioApplication.cs",
+              "DocumentMoniker": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ApplicationService\\Application\\UsuarioApplication.cs",
+              "RelativeDocumentMoniker": "ApplicationService\\Application\\UsuarioApplication.cs",
+              "ToolTip": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ApplicationService\\Application\\UsuarioApplication.cs",
+              "RelativeToolTip": "ApplicationService\\Application\\UsuarioApplication.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T17:20:53.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 94,
               "Title": "IAuthenticate.cs",
               "DocumentMoniker": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ClinicalLink.Infrastructure\\Interface\\IAuthenticate.cs",
               "RelativeDocumentMoniker": "ClinicalLink.Infrastructure\\Interface\\IAuthenticate.cs",
@@ -1512,7 +1579,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 89,
+              "DocumentIndex": 93,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ClinicalLink\\appsettings.Development.json",
               "RelativeDocumentMoniker": "ClinicalLink\\appsettings.Development.json",
@@ -1524,7 +1591,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 92,
+              "DocumentIndex": 96,
               "Title": "TokenService.cs",
               "DocumentMoniker": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ClinicalLink\\Service\\TokenService.cs",
               "RelativeDocumentMoniker": "ClinicalLink\\Service\\TokenService.cs",
@@ -1536,7 +1603,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 91,
+              "DocumentIndex": 95,
               "Title": "AuthenticationService.cs",
               "DocumentMoniker": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ClinicalLink.Infrastructure\\Identity\\AuthenticationService.cs",
               "RelativeDocumentMoniker": "ClinicalLink.Infrastructure\\Identity\\AuthenticationService.cs",
@@ -1548,7 +1615,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 93,
+              "DocumentIndex": 97,
               "Title": "launchSettings.json",
               "DocumentMoniker": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ClinicalLink\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "ClinicalLink\\Properties\\launchSettings.json",
@@ -1560,7 +1627,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 94,
+              "DocumentIndex": 98,
               "Title": "Key.cs",
               "DocumentMoniker": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ClinicalLink\\Key.cs",
               "RelativeDocumentMoniker": "ClinicalLink\\Key.cs",
@@ -1572,7 +1639,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 95,
+              "DocumentIndex": 99,
               "Title": "ClinicalLink.http",
               "DocumentMoniker": "D:\\Projeto\\ClinicalLink\\ClinicalLink\\ClinicalLink\\ClinicalLink.http",
               "RelativeDocumentMoniker": "ClinicalLink\\ClinicalLink.http",

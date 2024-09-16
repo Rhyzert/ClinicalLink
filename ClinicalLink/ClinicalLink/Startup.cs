@@ -43,6 +43,7 @@ namespace Application
             services.AddScoped<IConsultaRepository, ConsultaRepositorySql>();
             services.AddScoped<IEspecialidadeRepository, EspecialidadeRepositorySql>();
             services.AddScoped<IEspecialistaRepository, EspecialistaRepositorySql>();
+            services.AddScoped<IFuncionalidadeSupervisaoRepository, FuncionalidadeSupervisaoRepositorySql>();
             services.AddScoped<IUsuarioRepository, UsuarioRepositorySql>();
             services.AddScoped<IUniversidadeRepository, UniversidadeRepositorySql>();
             services.AddScoped<ISupervisaoRepository, SupervisaoRepositorySql>();
